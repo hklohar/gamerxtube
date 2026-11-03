@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#07070d">
+<meta name="description" content="GamerXTube: hand-ranked best YouTube videos for today's trending games, plus GamingStation PS5 gameplay.">
+<title>GamerXTube · best videos for trending games</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23ff2e88'/%3E%3Cpath d='M24 18l24 14-24 14z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://i.ytimg.com">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="#" aria-label="GamerXTube home"><span class="logo-mark">▶</span>Gamer<b>X</b>Tube</a>
+  <label class="search">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 015.96 12.06l4.24 4.24-1.4 1.4-4.24-4.24A7.5 7.5 0 1110.5 3zm0 2a5.5 5.5 0 100 11 5.5 5.5 0 000-11z"/></svg>
+    <input id="q" type="search" placeholder="Search videos, creators, games" autocomplete="off" enterkeyhint="search" aria-label="Search">
+  </label>
+</header>
+
+<main>
+  <section id="hero" class="hero" aria-label="Featured channel"></section>
+  <nav id="chips" class="chips" aria-label="Filter by game"></nav>
+  <p id="status" class="status" role="status"></p>
+  <div id="games"></div>
+</main>
+
+<footer class="foot">
+  <p>Trending games picked from <span id="srcs"></span>. Stats and comments come from YouTube as of <span id="gen"></span>.</p>
+  <p class="note">All videos belong to their creators. They are embedded via youtube-nocookie.com or linked to YouTube. GamerXTube hosts no video content.</p>
+  <p class="copy">© 2026 Harish Lohar · <a href="mailto:hklohar@gmail.com">hklohar@gmail.com</a></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

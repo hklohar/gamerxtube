@@ -6,7 +6,24 @@
 <meta name="theme-color" content="#07070d">
 <meta name="description" content="GamerXTube: hand-ranked best YouTube videos for today's trending games, plus GamingStation PS5 gameplay.">
 <title>GamerXTube · best videos for trending games</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23ff2e88'/%3E%3Cpath d='M24 18l24 14-24 14z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="canonical" href="https://hklohar.github.io/gamerxtube/">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="GamerXTube">
+<meta property="og:title" content="GamerXTube · the 10 best videos for every trending game">
+<meta property="og:description" content="Hand-ranked YouTube picks for today's trending games: LoL, CS2, GTA V, Minecraft, VALORANT, Dota 2, Fortnite, MW4, Phantom Blade Zero and FC 27. Ranked by views, likes and top comments. No Shorts, no spam.">
+<meta property="og:url" content="https://hklohar.github.io/gamerxtube/">
+<meta property="og:image" content="https://hklohar.github.io/gamerxtube/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="GamerXTube logo with the tagline: The 10 best videos for every trending game">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GamerXTube · the 10 best videos for every trending game">
+<meta name="twitter:description" content="Hand-ranked YouTube picks for today's trending games, ranked by views, likes and top comments. No Shorts, no spam.">
+<meta name="twitter:image" content="https://hklohar.github.io/gamerxtube/og-image.png">
+<meta name="twitter:image:alt" content="GamerXTube: The 10 best videos for every trending game">
 <link rel="preconnect" href="https://i.ytimg.com">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -21,6 +38,17 @@
 
 <main>
   <section id="hero" class="hero" aria-label="Featured channel"></section>
+  <section class="sharebar" aria-label="Share GamerXTube">
+    <span class="share-label">Share GamerXTube</span>
+    <div class="share-btns">
+      <button type="button" class="sbtn native" id="shareNative" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l4.5 4.5-1.4 1.4L13 5.8V15h-2V5.8L8.9 7.9 7.5 6.5zM5 11h3v2H6v7h12v-7h-2v-2h3a1 1 0 011 1v9a1 1 0 01-1 1H5a1 1 0 01-1-1v-9a1 1 0 011-1z"/></svg>Share</button>
+      <a class="sbtn x" id="shareX" target="_blank" rel="noopener" aria-label="Share on X">𝕏</a>
+      <a class="sbtn rd" id="shareReddit" target="_blank" rel="noopener" aria-label="Share on Reddit">Reddit</a>
+      <a class="sbtn wa" id="shareWA" target="_blank" rel="noopener" aria-label="Share on WhatsApp">WhatsApp</a>
+      <a class="sbtn fb" id="shareFB" target="_blank" rel="noopener" aria-label="Share on Facebook">Facebook</a>
+      <button type="button" class="sbtn copy" id="shareCopy">🔗 Copy link</button>
+    </div>
+  </section>
   <nav id="chips" class="chips" aria-label="Filter by game"></nav>
   <p id="status" class="status" role="status"></p>
   <div id="games"></div>
@@ -31,6 +59,7 @@
   <p class="note">All videos belong to their creators. They are embedded via youtube-nocookie.com or linked to YouTube. GamerXTube hosts no video content.</p>
   <p class="copy">© 2026 Harish Lohar · <a href="mailto:hklohar@gmail.com">hklohar@gmail.com</a></p>
 </footer>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
 <script src="app.js"></script>
 </body>
 </html>

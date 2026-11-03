@@ -13,6 +13,20 @@
   };
   const fmtDate = iso => iso ? new Date(iso + 'T12:00:00Z').toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric', timeZone:'UTC'}) : '';
   let DATA = null, active = 'all', query = '';
+  const SITE = 'https://hklohar.github.io/gamerxtube/';
+  const SHARE_TEXT = 'GamerXTube: the 10 best YouTube videos for every trending game, ranked by views, likes and top comments';
+  const vlink = id => SITE + '#v=' + encodeURIComponent(id);
+  let toastT;
+  function toast(msg) { const t = $('#toast'); t.textContent = msg; t.classList.add('show'); clearTimeout(toastT); toastT = setTimeout(() => t.classList.remove('show'), 1800); }
+  async function copy(text) {
+    try { await navigator.clipboard.writeText(text); }
+    catch (e) { const a = document.createElement('textarea'); a.value = text; a.setAttribute('readonly', ''); a.style.position = 'fixed'; a.style.opacity = '0'; document.body.appendChild(a); a.select(); try { document.execCommand('copy'); } catch (_) {} a.remove(); }
+    toast('Copied!');
+  }
+  async function share(data) {
+    if (navigator.share) { try { await navigator.share(data); return; } catch (e) { if (e && e.name === 'AbortError') return; } }
+    copy(data.url);
+  }
 
   function card(v, i, extraTag) {
     const s = [];
@@ -35,7 +49,7 @@
         <div class="by">${v.channel_url ? `<a href="${esc(v.channel_url)}" target="_blank" rel="noopener">${esc(v.channel)}</a>` : esc(v.channel)}</div>
         <div class="stats">${s.join('')}</div>
         ${cm}
-        <a class="yt" href="${url}" target="_blank" rel="noopener">Open on YouTube ↗</a>
+        <div class="actions"><a class="yt" href="${url}" target="_blank" rel="noopener">Open on YouTube ↗</a><button type="button" class="vshare" data-id="${esc(v.id)}" aria-label="Share this video">↗ Share</button></div>
       </div>
     </article>`;
   }
@@ -93,9 +107,52 @@
     btn.querySelectorAll('img,.play,.dur,.pos,.tag').forEach(e => e.hidden = true);
     btn.classList.add('on');
     btn.appendChild(f);
+    if (location.hash !== '#v=' + id) history.replaceState(null, '', '#v=' + encodeURIComponent(id));
+  }
+
+  function findVideo(id) {
+    for (const g of DATA.games) { const v = g.videos.find(x => x.id === id); if (v) return {v, g}; }
+    const v = (DATA.channel.videos || []).find(x => x.id === id);
+    return v ? {v, g: null} : null;
+  }
+
+  function openDeepLink() {
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (!h) return;
+    const id = h.startsWith('v=') ? h.slice(2) : h;
+    if (!/^[\w-]{6,20}$/.test(id)) return;
+    const hit = findVideo(id);
+    if (!hit) return;
+    let card;
+    if (hit.g) {
+      query = ''; $('#q').value = '';
+      active = hit.g.id;
+      document.querySelectorAll('.chip').forEach(x => x.setAttribute('aria-pressed', String(x.dataset.g === active)));
+      render();
+      card = document.querySelector(`#games .card[data-id="${CSS.escape(id)}"]`);
+    } else {
+      card = document.querySelector(`#hero .card[data-id="${CSS.escape(id)}"]`);
+    }
+    if (!card) return;
+    document.querySelectorAll('.card.hl').forEach(c => c.classList.remove('hl'));
+    card.classList.add('hl');
+    card.scrollIntoView({block: 'center', inline: 'center'});
+    play(card.querySelector('.player'));
+  }
+
+  function setupShareBar() {
+    const u = encodeURIComponent(SITE), t = encodeURIComponent(SHARE_TEXT);
+    $('#shareX').href = `https://x.com/intent/post?text=${t}&url=${u}`;
+    $('#shareReddit').href = `https://www.reddit.com/submit?url=${u}&title=${encodeURIComponent('GamerXTube: the 10 best YouTube videos for every trending game')}`;
+    $('#shareWA').href = `https://wa.me/?text=${encodeURIComponent(SHARE_TEXT + ' ' + SITE)}`;
+    $('#shareFB').href = `https://www.facebook.com/sharer/sharer.php?u=${u}`;
+    if (navigator.share) { const n = $('#shareNative'); n.hidden = false; n.addEventListener('click', () => share({title: 'GamerXTube', text: SHARE_TEXT, url: SITE})); }
+    $('#shareCopy').addEventListener('click', () => copy(SITE));
   }
 
   document.addEventListener('click', e => {
+    const vs = e.target.closest('.vshare');
+    if (vs) { const hit = findVideo(vs.dataset.id); share({title: hit ? hit.v.title + ' · GamerXTube' : 'GamerXTube', text: hit ? `${hit.v.title} (${hit.v.channel})` : SHARE_TEXT, url: vlink(vs.dataset.id)}); return; }
     const p = e.target.closest('.player');
     if (p && !p.classList.contains('on')) { e.preventDefault(); play(p); return; }
     const c = e.target.closest('.chip');
@@ -117,6 +174,9 @@
     chips();
     render();
     $('#srcs').innerHTML = (d.trending_sources || []).map(s => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(', ');
+    setupShareBar();
+    openDeepLink();
+    window.addEventListener('hashchange', openDeepLink);
     $('#gen').textContent = d.generated ? new Date(d.generated).toLocaleDateString('en-US', {month: 'short', day: 'numeric', year: 'numeric'}) : '';
   }).catch(() => { $('#status').textContent = 'Could not load data.json'; });
 })();

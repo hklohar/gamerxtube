@@ -6,6 +6,8 @@ A curated gaming-video site: **https://hklohar.github.io/gamerxtube/**
 - **Trending games:** 10 games picked on 2026-11-03 from the [Streams Charts Twitch 7-day ranking](https://streamscharts.com/games?platform=twitch) and the [Steam weekly top sellers](https://store.steampowered.com/charts/topsellers/global/2026-10-27) / [most played](https://store.steampowered.com/charts/mostplayed) charts.
 - **Each game** has the 10 best YouTube videos, ranked by views, likes, like/view ratio, comment count and recency (max 2 per channel). Shorts, reuploads, spam and off-topic results are removed. Each card shows the most-liked clean comment from YouTube's "Top comments".
 
+Share any video with a deep link like `https://hklohar.github.io/gamerxtube/#v=<youtube-id>`, which opens and plays it. The site also has a share bar (native share on iPhone, plus X, Reddit, WhatsApp, Facebook and copy link) and Open Graph/Twitter card previews.
+
 Plain HTML/CSS/JS with no build step. Videos play in a click-to-load `youtube-nocookie.com` embed.
 
 ## Refresh the data

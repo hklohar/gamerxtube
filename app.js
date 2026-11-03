@@ -16,7 +16,7 @@
 
   function card(v, i, extraTag) {
     const s = [];
-    if (v.views != null) s.push(`<span title="${v.views.toLocaleString()} views">👁 ${num(v.views)} views</span>`);
+    if (v.views != null) s.push(`<span title="${v.views.toLocaleString()} views">👁 ${num(v.views)} view${v.views === 1 ? "" : "s"}</span>`);
     if (v.likes != null) s.push(`<span class="lk" title="${v.likes.toLocaleString()} likes">♥ ${num(v.likes)}</span>`);
     if (v.uploaded) s.push(`<span title="${fmtDate(v.uploaded)}">${ago(v.uploaded)}</span>`);
     const c = v.top_comment;

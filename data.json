@@ -10,7 +10,7 @@
   "videos": [
    {
     "id": "2oULKwHj7L0",
-    "title": "Virat Kohli Opening Blitz & 89-Yard Six | RCB vs CSK IPL 2026 | Cricket 26 PS5",
+    "title": "Virat Kohli Insane Opening Blitz & 89-Yard Six | RCB vs CSK IPL 2026 | Cricket 26 PS5",
     "channel": "GamingStation",
     "channel_url": "https://www.youtube.com/channel/UCA4FLZONf5zhZzvevnjF8yw",
     "channel_handle": "@ps5gameplaystation453",
@@ -92,7 +92,7 @@
     "channel": "GamingStation",
     "channel_url": "https://www.youtube.com/channel/UCA4FLZONf5zhZzvevnjF8yw",
     "channel_handle": "@ps5gameplaystation453",
-    "views": 139,
+    "views": 141,
     "likes": 2,
     "comments": 0,
     "uploaded": "2024-06-25",
@@ -104,7 +104,7 @@
    },
    {
     "id": "m8bwCWDOfhw",
-    "title": "Suryakumar Yadav Smashes Hasaranga | India vs Sri Lanka T20 | Cricket 24 PS5",
+    "title": "Suryakumar Yadav Insane Fifty in 24 Balls | India vs Sri Lanka T20 | Cricket 24 PS5",
     "channel": "GamingStation",
     "channel_url": "https://www.youtube.com/channel/UCA4FLZONf5zhZzvevnjF8yw",
     "channel_handle": "@ps5gameplaystation453",
@@ -172,7 +172,7 @@
    "id": "lol",
    "name": "League of Legends",
    "short": "LoL",
-   "why": "Twitch #2 (31.3M hours watched, last 7 days)",
+   "why": "Twitch #2 (29.1M hours watched, last 7 days)",
    "queries": [
     "League of Legends gameplay",
     "League of Legends best plays 2026",
@@ -180,13 +180,32 @@
    ],
    "videos": [
     {
+     "id": "gf50dvLAORc",
+     "title": "T1 vs BLG | WORLDS 2026 | Semis Day 2",
+     "channel": "LoL Esports",
+     "channel_url": "https://www.youtube.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw",
+     "channel_handle": "@lolesports",
+     "views": 3519279,
+     "likes": 19997,
+     "comments": 40,
+     "uploaded": "2026-11-09",
+     "duration": 18851,
+     "thumb": "https://i.ytimg.com/vi/gf50dvLAORc/hqdefault.jpg",
+     "top_comment": {
+      "text": "T1 fans: “Worlds only matters when our team wins.”",
+      "author": "@Invictus-Solaris",
+      "likes": 344
+     },
+     "score": 14.219
+    },
+    {
      "id": "-hA68UuaT9g",
      "title": "How to play League of Legends...",
      "channel": "Herold_NA",
      "channel_url": "https://www.youtube.com/channel/UCvQVK1z4mwIAej5xib0cQXQ",
      "channel_handle": "@Herold_NA",
-     "views": 510935,
-     "likes": 22102,
+     "views": 519671,
+     "likes": 22232,
      "comments": 40,
      "uploaded": "2025-08-22",
      "duration": 707,
@@ -196,26 +215,7 @@
       "author": "@rasmusnielsen5163",
       "likes": 2600
      },
-     "score": 13.334
-    },
-    {
-     "id": "_JWJgS00hfk",
-     "title": "50 ULTRA SATISFYING MOMENTS IN LEAGUE OF LEGENDS",
-     "channel": "Protatomonster",
-     "channel_url": "https://www.youtube.com/channel/UClh5azhOaKzdlThQFgoq-tw",
-     "channel_handle": "@Protatomonster",
-     "views": 3491976,
-     "likes": 29102,
-     "comments": 40,
-     "uploaded": "2024-08-06",
-     "duration": 910,
-     "thumb": "https://i.ytimg.com/vi/_JWJgS00hfk/hqdefault.jpg",
-     "top_comment": {
-      "text": "Yo its been about a decade since i last watched this channel wtf! Glad to see u still around :)",
-      "author": "@homerjjhhj",
-      "likes": 574
-     },
-     "score": 12.992
+     "score": 13.325
     },
     {
      "id": "lWKVhcGS_0s",
@@ -223,8 +223,8 @@
      "channel": "Jynxzi Live",
      "channel_url": "https://www.youtube.com/channel/UCyNzZ1wgkOWkzYE0zbs7zhA",
      "channel_handle": "@MoreJynxzi",
-     "views": 524899,
-     "likes": 11439,
+     "views": 530272,
+     "likes": 11472,
      "comments": 40,
      "uploaded": "2026-04-27",
      "duration": 4738,
@@ -234,7 +234,64 @@
       "author": "@wafflekip",
       "likes": 4000
      },
-     "score": 12.986
+     "score": 12.972
+    },
+    {
+     "id": "HKqhMssvwMI",
+     "title": "The COMPLETE Beginner's Guide to League of Legends in 2026!",
+     "channel": "Skill Capped Challenger LoL Guides",
+     "channel_url": "https://www.youtube.com/channel/UCFl1mGlf5j0Qno1Kxnyv6FA",
+     "channel_handle": "@skillcapped",
+     "views": 703321,
+     "likes": 14146,
+     "comments": 40,
+     "uploaded": "2026-01-17",
+     "duration": 2582,
+     "thumb": "https://i.ytimg.com/vi/HKqhMssvwMI/hqdefault.jpg",
+     "top_comment": {
+      "text": "I know my future self is watching me through the interstellar tesseract screaming at me in this moment",
+      "author": "@spaceitout1",
+      "likes": 1700
+     },
+     "score": 12.849
+    },
+    {
+     "id": "npySWSzsJTo",
+     "title": "T1 vs KC Highlights ALL GAMES | Worlds 2026 Quarterfinals | T1 vs Karmine Corp",
+     "channel": "OPLOLReplay",
+     "channel_url": "https://www.youtube.com/channel/UC0RalGf69iYVBFteHInyJJg",
+     "channel_handle": "@oplolreplay",
+     "views": 312604,
+     "likes": 1752,
+     "comments": 40,
+     "uploaded": "2026-11-07",
+     "duration": 2336,
+     "thumb": "https://i.ytimg.com/vi/npySWSzsJTo/hqdefault.jpg",
+     "top_comment": {
+      "text": "Keria's plays are simply amazing",
+      "author": "@Kameliish",
+      "likes": 346
+     },
+     "score": 11.864
+    },
+    {
+     "id": "dFo9R2e_8RI",
+     "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #7",
+     "channel": "Protatomonster",
+     "channel_url": "https://www.youtube.com/channel/UClh5azhOaKzdlThQFgoq-tw",
+     "channel_handle": "@Protatomonster",
+     "views": 625710,
+     "likes": 4686,
+     "comments": 30,
+     "uploaded": "2026-05-08",
+     "duration": 1449,
+     "thumb": "https://i.ytimg.com/vi/dFo9R2e_8RI/hqdefault.jpg",
+     "top_comment": {
+      "text": "when you see midbeast or Jankos, your know how it is goind to end xd",
+      "author": "@ido1273",
+      "likes": 28
+     },
+     "score": 11.846
     },
     {
      "id": "Nh7grMRBSrM",
@@ -242,8 +299,8 @@
      "channel": "Akiha",
      "channel_url": "https://www.youtube.com/channel/UC0DCsOMDTmen24zNCS0hTRA",
      "channel_handle": "@ClearlyAki",
-     "views": 263710,
-     "likes": 5401,
+     "views": 265852,
+     "likes": 5415,
      "comments": 40,
      "uploaded": "2025-09-21",
      "duration": 2197,
@@ -253,7 +310,7 @@
       "author": "@FloofyFin",
       "likes": 1000
      },
-     "score": 11.684
+     "score": 11.678
     },
     {
      "id": "p4QG59y6FGE",
@@ -261,7 +318,7 @@
      "channel": "MindYourGames",
      "channel_url": "https://www.youtube.com/channel/UCpVdDwEWxsmyoe5D2qUD7sg",
      "channel_handle": "@MindYourGamesYT",
-     "views": 1325788,
+     "views": 1327818,
      "likes": 6409,
      "comments": 40,
      "uploaded": "2021-01-17",
@@ -275,99 +332,42 @@
      "score": 11.637
     },
     {
-     "id": "_rsQHWCqORg",
-     "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #29",
+     "id": "0m3O1TYzJE0",
+     "title": "When LOL Players Have MASSIVE Brains... 200 IQ PLAYS MONTAGE (League of Legends)",
      "channel": "Protatomonster",
      "channel_url": "https://www.youtube.com/channel/UClh5azhOaKzdlThQFgoq-tw",
      "channel_handle": "@Protatomonster",
-     "views": 442066,
-     "likes": 1395,
-     "comments": 15,
-     "uploaded": "2026-10-20",
-     "duration": 1216,
-     "thumb": "https://i.ytimg.com/vi/_rsQHWCqORg/hqdefault.jpg",
+     "views": 470033,
+     "likes": 4539,
+     "comments": 40,
+     "uploaded": "2025-06-02",
+     "duration": 904,
+     "thumb": "https://i.ytimg.com/vi/0m3O1TYzJE0/hqdefault.jpg",
      "top_comment": {
-      "text": "13:03 show me the end lol",
-      "author": "@GaMeStRiKe84",
-      "likes": 31
+      "text": "that first guy was in his flow state 100%",
+      "author": "@speedmanB4L",
+      "likes": 115
      },
-     "score": 11.407
+     "score": 11.253
     },
     {
-     "id": "vZnD8JZO3p8",
-     "title": "T1 vs MKOI Highlights ALL GAMES | Worlds 2026 Swiss Stage | T1 vs Movistar KOI",
+     "id": "-Iw2CdbRIhI",
+     "title": "GEN vs IG Highlights ALL GAMES | Worlds 2026 Semifinals | Gen.G vs Invictus Gaming",
      "channel": "OPLOLReplay",
      "channel_url": "https://www.youtube.com/channel/UC0RalGf69iYVBFteHInyJJg",
      "channel_handle": "@oplolreplay",
-     "views": 243743,
-     "likes": 1135,
+     "views": 174598,
+     "likes": 944,
      "comments": 40,
-     "uploaded": "2026-10-28",
-     "duration": 1060,
-     "thumb": "https://i.ytimg.com/vi/vZnD8JZO3p8/hqdefault.jpg",
+     "uploaded": "2026-11-08",
+     "duration": 1963,
+     "thumb": "https://i.ytimg.com/vi/-Iw2CdbRIhI/hqdefault.jpg",
      "top_comment": {
-      "text": "MKOI has looked strong so far but T1 appears to have their Worlds Buff activated",
-      "author": "@atomhead",
-      "likes": 235
+      "text": "MVP of this series was canyon without a doubt. Absolute monster",
+      "author": "@lolzsdfsdfsdf",
+      "likes": 216
      },
-     "score": 11.376
-    },
-    {
-     "id": "6iimEGobKe4",
-     "title": "T1 vs BFX Highlights ALL GAMES | LCK 2026 Season Playoffs | T1 vs BNK FEARX",
-     "channel": "OPLOLReplay",
-     "channel_url": "https://www.youtube.com/channel/UC0RalGf69iYVBFteHInyJJg",
-     "channel_handle": "@oplolreplay",
-     "views": 306929,
-     "likes": 1371,
-     "comments": 40,
-     "uploaded": "2026-08-29",
-     "duration": 2591,
-     "thumb": "https://i.ytimg.com/vi/6iimEGobKe4/hqdefault.jpg",
-     "top_comment": {
-      "text": "One more penta for Peyz😂",
-      "author": "@Felipe-v8",
-      "likes": 234
-     },
-     "score": 11.342
-    },
-    {
-     "id": "1730_cjUjfE",
-     "title": "Play-In Stage Day 1 Highlights | Worlds 2026",
-     "channel": "LoL Esports",
-     "channel_url": "https://www.youtube.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw",
-     "channel_handle": "@lolesports",
-     "views": 340628,
-     "likes": 995,
-     "comments": 36,
-     "uploaded": "2026-10-16",
-     "duration": 2539,
-     "thumb": "https://i.ytimg.com/vi/1730_cjUjfE/hqdefault.jpg",
-     "top_comment": {
-      "text": "wtf is that kogmaw?",
-      "author": "@leeris19",
-      "likes": 46
-     },
-     "score": 11.257
-    },
-    {
-     "id": "2caQwnlGeOk",
-     "title": "Game-Changing Plays from Swiss Stage Week One | Worlds 2026",
-     "channel": "LoL Esports",
-     "channel_url": "https://www.youtube.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw",
-     "channel_handle": "@lolesports",
-     "views": 167293,
-     "likes": 966,
-     "comments": 40,
-     "uploaded": "2026-10-27",
-     "duration": 447,
-     "thumb": "https://i.ytimg.com/vi/2caQwnlGeOk/hqdefault.jpg",
-     "top_comment": {
-      "text": "Faker clip is more so keria and doran",
-      "author": "@daxdax6035",
-      "likes": 268
-     },
-     "score": 11.136
+     "score": 11.251
     }
    ]
   },
@@ -375,7 +375,7 @@
    "id": "cs2",
    "name": "Counter-Strike 2",
    "short": "CS2",
-   "why": "Twitch #3 (14.4M h) · Steam #1 most played",
+   "why": "Twitch #5 (13.6M h) · Steam top sellers #4",
    "queries": [
     "Counter-Strike 2 highlights",
     "CS2 best plays 2026",
@@ -388,8 +388,8 @@
      "channel": "SMii7Yplus",
      "channel_url": "https://www.youtube.com/channel/UC-gW4TeZAlKm7UATp24JsWQ",
      "channel_handle": "@SMii7Yplus",
-     "views": 4168189,
-     "likes": 124571,
+     "views": 4175211,
+     "likes": 124639,
      "comments": 40,
      "uploaded": "2023-04-28",
      "duration": 1356,
@@ -399,7 +399,7 @@
       "author": "@JayDayKay",
       "likes": 3600
      },
-     "score": 14.473
+     "score": 14.472
     },
     {
      "id": "nLYAqV8Wnxc",
@@ -407,8 +407,8 @@
      "channel": "SMii7Y",
      "channel_url": "https://www.youtube.com/channel/UCzXwjTI6c6mVn6oui_p6oiw",
      "channel_handle": "@SMii7Y",
-     "views": 3123151,
-     "likes": 99619,
+     "views": 3137305,
+     "likes": 99739,
      "comments": 40,
      "uploaded": "2023-11-04",
      "duration": 775,
@@ -418,7 +418,7 @@
       "author": "@ryanwhite6588",
       "likes": 3000
      },
-     "score": 14.282
+     "score": 14.281
     },
     {
      "id": "k7VFsKCzN2E",
@@ -426,8 +426,8 @@
      "channel": "urAverageAdam",
      "channel_url": "https://www.youtube.com/channel/UCa_8SWo1NrnNLE6-M-qEnew",
      "channel_handle": "@urAvrAdam",
-     "views": 775878,
-     "likes": 26261,
+     "views": 790711,
+     "likes": 26446,
      "comments": 40,
      "uploaded": "2026-02-15",
      "duration": 867,
@@ -437,7 +437,7 @@
       "author": "@6ebee",
       "likes": 2200
      },
-     "score": 13.775
+     "score": 13.764
     },
     {
      "id": "21RVkTyknGM",
@@ -445,8 +445,8 @@
      "channel": "shroud",
      "channel_url": "https://www.youtube.com/channel/UCoz3Kpu5lv-ALhR4h9bDvcw",
      "channel_handle": "@shroud",
-     "views": 1564996,
-     "likes": 21700,
+     "views": 1595657,
+     "likes": 21814,
      "comments": 40,
      "uploaded": "2026-04-26",
      "duration": 1167,
@@ -456,7 +456,64 @@
       "author": "@Noopppppppp",
       "likes": 1800
      },
-     "score": 13.549
+     "score": 13.54
+    },
+    {
+     "id": "ppBbZ6dP-vw",
+     "title": "IEM COLOGNE MAJOR 2026 - CS2 Fragmovie",
+     "channel": "Virre CS2",
+     "channel_url": "https://www.youtube.com/channel/UCC6CbMzckAgAz-8MVul2IPA",
+     "channel_handle": "@VirreCSGO",
+     "views": 271672,
+     "likes": 13022,
+     "comments": 40,
+     "uploaded": "2026-06-23",
+     "duration": 1274,
+     "thumb": "https://i.ytimg.com/vi/ppBbZ6dP-vw/hqdefault.jpg",
+     "top_comment": {
+      "text": "The craziest Major since CS2 I believe, fabulous highlights, exciting playoffs, and Niko finally gets his Major champion",
+      "author": "@IcyShriwber27",
+      "likes": 1400
+     },
+     "score": 13.513
+    },
+    {
+     "id": "F74qK2UBybc",
+     "title": "15 Beginner Tips I Wish I Knew Sooner in CS2",
+     "channel": "louiecs2",
+     "channel_url": "https://www.youtube.com/channel/UCC0-NtJNSdfYZ9pImGsVWuw",
+     "channel_handle": "@louiecs2",
+     "views": 1627321,
+     "likes": 34173,
+     "comments": 40,
+     "uploaded": "2025-05-13",
+     "duration": 668,
+     "thumb": "https://i.ytimg.com/vi/F74qK2UBybc/hqdefault.jpg",
+     "top_comment": {
+      "text": "me learning all of this just to die in the first 8 seconds:",
+      "author": "@forg_owo",
+      "likes": 2500
+     },
+     "score": 13.383
+    },
+    {
+     "id": "FFwL1zDojo4",
+     "title": "Every CS Play of the Year (2013-2025)",
+     "channel": "Runboost",
+     "channel_url": "https://www.youtube.com/channel/UC8RUZ5urjfelUyrWyVI-t1A",
+     "channel_handle": "@RunBoosted",
+     "views": 1721085,
+     "likes": 24353,
+     "comments": 40,
+     "uploaded": "2025-12-03",
+     "duration": 549,
+     "thumb": "https://i.ytimg.com/vi/FFwL1zDojo4/hqdefault.jpg",
+     "top_comment": {
+      "text": "Cadian's 1v4 is the very ultimate wet dream of all cs players",
+      "author": "@abdouLNB",
+      "likes": 6200
+     },
+     "score": 13.364
     },
     {
      "id": "W51IGMmbvck",
@@ -464,8 +521,8 @@
      "channel": "NadeKing",
      "channel_url": "https://www.youtube.com/channel/UC5_YHkJ1i5E7E5J5wuU7oyw",
      "channel_handle": "@NadeKing",
-     "views": 541714,
-     "likes": 18218,
+     "views": 549484,
+     "likes": 18307,
      "comments": 40,
      "uploaded": "2025-12-07",
      "duration": 737,
@@ -473,9 +530,9 @@
      "top_comment": {
       "text": "Really good video this helped me alot Thanks!!",
       "author": "@LukasDjkdkdkzk",
-      "likes": 232
+      "likes": 233
      },
-     "score": 13.084
+     "score": 13.075
     },
     {
      "id": "cxQWvIJyVlY",
@@ -483,8 +540,8 @@
      "channel": "imfcnd",
      "channel_url": "https://www.youtube.com/channel/UCkgePJoj5Foh1DqPo3l-Swg",
      "channel_handle": "@imfcnd",
-     "views": 1316200,
-     "likes": 8038,
+     "views": 1367513,
+     "likes": 8223,
      "comments": 40,
      "uploaded": "2026-08-04",
      "duration": 1382,
@@ -492,9 +549,9 @@
      "top_comment": {
       "text": "Finally, a channel that shows strictly the player we care about and not his fuh ahh teammates 🙏",
       "author": "@asappi1",
-      "likes": 337
+      "likes": 342
      },
-     "score": 12.858
+     "score": 12.867
     },
     {
      "id": "P9Z-_7au8rQ",
@@ -502,8 +559,8 @@
      "channel": "ohnepixel raw",
      "channel_url": "https://www.youtube.com/channel/UCWX7tzz1JJVc2Usx0BRn1Cg",
      "channel_handle": "@ohnepixelraw",
-     "views": 524190,
-     "likes": 6284,
+     "views": 543186,
+     "likes": 6435,
      "comments": 40,
      "uploaded": "2026-10-06",
      "duration": 1625,
@@ -513,64 +570,7 @@
       "author": "@GigaChad-i9p9n",
       "likes": 1300
      },
-     "score": 12.815
-    },
-    {
-     "id": "GxQFNSGP-oE",
-     "title": "I Played CS2 On A Fresh Account (It's Bad)",
-     "channel": "ohnepixel raw",
-     "channel_url": "https://www.youtube.com/channel/UCWX7tzz1JJVc2Usx0BRn1Cg",
-     "channel_handle": "@ohnepixelraw",
-     "views": 660671,
-     "likes": 12614,
-     "comments": 40,
-     "uploaded": "2026-01-29",
-     "duration": 1108,
-     "thumb": "https://i.ytimg.com/vi/GxQFNSGP-oE/hqdefault.jpg",
-     "top_comment": {
-      "text": "New account means rank stays the same, what's the point of this video again ?",
-      "author": "@rand504",
-      "likes": 1600
-     },
-     "score": 12.793
-    },
-    {
-     "id": "n8WX1hAVBdQ",
-     "title": "Top 20 CS2 Players of 2025",
-     "channel": "Virre CS2",
-     "channel_url": "https://www.youtube.com/channel/UCC6CbMzckAgAz-8MVul2IPA",
-     "channel_handle": "@VirreCSGO",
-     "views": 446939,
-     "likes": 12268,
-     "comments": 40,
-     "uploaded": "2026-01-11",
-     "duration": 898,
-     "thumb": "https://i.ytimg.com/vi/n8WX1hAVBdQ/hqdefault.jpg",
-     "top_comment": {
-      "text": "That picture with ZywOo and donk handshake in end have infinite aura",
-      "author": "@kovieking6946",
-      "likes": 767
-     },
-     "score": 12.79
-    },
-    {
-     "id": "jiMoigPF_GE",
-     "title": "ESL Pro League 24 - CS2 FRAGMOVIE",
-     "channel": "Virre CS2",
-     "channel_url": "https://www.youtube.com/channel/UCC6CbMzckAgAz-8MVul2IPA",
-     "channel_handle": "@VirreCSGO",
-     "views": 346670,
-     "likes": 6092,
-     "comments": 40,
-     "uploaded": "2026-10-12",
-     "duration": 1076,
-     "thumb": "https://i.ytimg.com/vi/jiMoigPF_GE/hqdefault.jpg",
-     "top_comment": {
-      "text": "I hope Aurora can grow. Xantares is a legendary player, he deserves more trophies.",
-      "author": "@MrFrostpower-b1z",
-      "likes": 415
-     },
-     "score": 12.771
+     "score": 12.816
     }
    ]
   },
@@ -591,8 +591,8 @@
      "channel": "Prestige Clips",
      "channel_url": "https://www.youtube.com/channel/UCC-uu-OqgYEx52KYQ-nJLRw",
      "channel_handle": "@PrestigeClips",
-     "views": 45789204,
-     "likes": 482902,
+     "views": 45790277,
+     "likes": 482852,
      "comments": 40,
      "uploaded": "2016-02-06",
      "duration": 1209,
@@ -610,8 +610,8 @@
      "channel": "Prestige Clips",
      "channel_url": "https://www.youtube.com/channel/UCC-uu-OqgYEx52KYQ-nJLRw",
      "channel_handle": "@PrestigeClips",
-     "views": 51338182,
-     "likes": 467812,
+     "views": 51343100,
+     "likes": 467786,
      "comments": 40,
      "uploaded": "2016-03-13",
      "duration": 610,
@@ -629,8 +629,8 @@
      "channel": "VanossGaming",
      "channel_url": "https://www.youtube.com/channel/UCKqH_9mk1waLgBiL2vT5b9g",
      "channel_handle": "@VanossGaming",
-     "views": 49602621,
-     "likes": 469987,
+     "views": 49613803,
+     "likes": 474042,
      "comments": 40,
      "uploaded": "2015-01-28",
      "duration": 613,
@@ -640,26 +640,7 @@
       "author": "@static_m4680",
       "likes": 13000
      },
-     "score": 15.919
-    },
-    {
-     "id": "d0KJhFMnWRI",
-     "title": "Grand Theft Auto V (PS3 Gameplay) [HD]",
-     "channel": "BLG",
-     "channel_url": "https://www.youtube.com/channel/UCEsBGNsNy8WFXUJCcpiaGTQ",
-     "channel_handle": "@BLG99",
-     "views": 22982004,
-     "likes": 199389,
-     "comments": 40,
-     "uploaded": "2019-06-27",
-     "duration": 3204,
-     "thumb": "https://i.ytimg.com/vi/d0KJhFMnWRI/hqdefault.jpg",
-     "top_comment": {
-      "text": "Looks better than Cyberpunk on PS4.",
-      "author": "@MaksymilianKusak",
-      "likes": 5400
-     },
-     "score": 15.059
+     "score": 15.942
     },
     {
      "id": "jWid8_nbPkg",
@@ -667,18 +648,18 @@
      "channel": "RedSimba",
      "channel_url": "https://www.youtube.com/channel/UCg9o_55ekDsbqeVtornCQ_w",
      "channel_handle": "@RedSimba",
-     "views": 35900645,
-     "likes": 156180,
+     "views": 35955801,
+     "likes": 156364,
      "comments": 40,
      "uploaded": "2022-12-31",
      "duration": 991,
      "thumb": "https://i.ytimg.com/vi/jWid8_nbPkg/hqdefault.jpg",
      "top_comment": {
-      "text": "we, yes WE need to bring these back with GTA VI",
-      "author": "@NSTR-8",
-      "likes": 174
+      "text": "People who watched on 2018 on moms phone",
+      "author": "@Hhhhhhhhhhhhhhhjjjj",
+      "likes": 377
      },
-     "score": 14.907
+     "score": 14.908
     },
     {
      "id": "3OUZNp9Id-M",
@@ -686,8 +667,8 @@
      "channel": "Red Arcade",
      "channel_url": "https://www.youtube.com/channel/UCHZZo1h1cI1vg4I9g2RqOUQ",
      "channel_handle": "@RedArcade",
-     "views": 17506448,
-     "likes": 152017,
+     "views": 17506660,
+     "likes": 152001,
      "comments": 40,
      "uploaded": "2017-09-22",
      "duration": 1758,
@@ -705,8 +686,8 @@
      "channel": "Millstar",
      "channel_url": "https://www.youtube.com/channel/UCppFW2afZyDC4LKzLw6vSjg",
      "channel_handle": "@Millstar",
-     "views": 29446339,
-     "likes": 132702,
+     "views": 29481681,
+     "likes": 132813,
      "comments": 40,
      "uploaded": "2021-12-28",
      "duration": 1221,
@@ -714,66 +695,85 @@
      "top_comment": {
       "text": "Only ogs would remember watching this in 2020 for the sounds and trick shots",
       "author": "@Warlock_0222",
-      "likes": 164
+      "likes": 165
      },
      "score": 14.695
     },
     {
-     "id": "KNo98oZfNIM",
-     "title": "I Spent 100 Days in REALISTIC GTA 5",
-     "channel": "Jelly",
-     "channel_url": "https://www.youtube.com/channel/UC0DZmkupLYwc0yDsfocLh0A",
-     "channel_handle": "@Jelly",
-     "views": 4363495,
-     "likes": 57997,
+     "id": "zaiywEWdcoU",
+     "title": "GTA 5 - Best Missions! (TOP 5)",
+     "channel": "Madd Trevor",
+     "channel_url": "https://www.youtube.com/channel/UC56nLb00cLwLY6afw6JaLlQ",
+     "channel_handle": "@MaddTrevor",
+     "views": 9640742,
+     "likes": 92672,
      "comments": 40,
-     "uploaded": "2026-03-13",
-     "duration": 2308,
-     "thumb": "https://i.ytimg.com/vi/KNo98oZfNIM/hqdefault.jpg",
+     "uploaded": "2020-02-23",
+     "duration": 2061,
+     "thumb": "https://i.ytimg.com/vi/zaiywEWdcoU/hqdefault.jpg",
      "top_comment": {
-      "text": "Dude literally discovered that college degrees don't equal more money",
-      "author": "@corydunaway",
-      "likes": 1500
+      "text": "I could replay this game a hundred times and still not get bored of it",
+      "author": "@zremmy",
+      "likes": 713
      },
-     "score": 14.512
+     "score": 14.099
     },
     {
-     "id": "xv3wFGGeIsI",
-     "title": "GTA 5 Gameplay Walkthrough FULL GAME [4K 60FPS] - No Commentary",
-     "channel": "MKIceAndFire",
-     "channel_url": "https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag",
-     "channel_handle": "@MKIceAndFire",
-     "views": 10855066,
-     "likes": 100853,
+     "id": "6d0HXsh9Hcw",
+     "title": "My GANG ROBBED the BIGGEST BANK in GTA 5 RP..",
+     "channel": "Jefe",
+     "channel_url": "https://www.youtube.com/channel/UCCsNkIloRVAF5kxTxORaYTg",
+     "channel_handle": "@DonJefe_",
+     "views": 942217,
+     "likes": 20138,
      "comments": 40,
-     "uploaded": "2023-12-05",
-     "duration": 62735,
-     "thumb": "https://i.ytimg.com/vi/xv3wFGGeIsI/hqdefault.jpg",
+     "uploaded": "2026-06-28",
+     "duration": 4517,
+     "thumb": "https://i.ytimg.com/vi/6d0HXsh9Hcw/hqdefault.jpg",
      "top_comment": {
-      "text": "Imagine this dude play gta for 17 hours and forget to start record",
-      "author": "@CraftyCube_Official",
-      "likes": 11000
+      "text": "56:59 Jamari sound tuff 🔥",
+      "author": "@Lilwavyyyy",
+      "likes": 1100
      },
-     "score": 14.44
+     "score": 13.841
     },
     {
-     "id": "KGVNdBVm9RQ",
-     "title": "I spent 100 days in REALISTIC GTA 5!",
-     "channel": "JNO'S WRLD ",
-     "channel_url": "https://www.youtube.com/channel/UCdJLH_E0aEQZjfy32oJwq_w",
-     "channel_handle": "@JNOS-WRLD",
-     "views": 5144656,
-     "likes": 83290,
+     "id": "KylNAucsYO0",
+     "title": "TOP 1000 FUNNIEST FAILS IN GTA 5",
+     "channel": "Red Arcade",
+     "channel_url": "https://www.youtube.com/channel/UCHZZo1h1cI1vg4I9g2RqOUQ",
+     "channel_handle": "@RedArcade",
+     "views": 8371751,
+     "likes": 51401,
      "comments": 40,
-     "uploaded": "2024-06-15",
-     "duration": 862,
-     "thumb": "https://i.ytimg.com/vi/KGVNdBVm9RQ/hqdefault.jpg",
+     "uploaded": "2023-11-19",
+     "duration": 8960,
+     "thumb": "https://i.ytimg.com/vi/KylNAucsYO0/hqdefault.jpg",
      "top_comment": {
-      "text": "is bro roleplaying in offline?",
-      "author": "@Oscar-xb7nx",
-      "likes": 7500
+      "text": "2:07, man enjoying his last drink, respect",
+      "author": "@KingJosiah630",
+      "likes": 175
      },
-     "score": 14.137
+     "score": 13.707
+    },
+    {
+     "id": "e7s19-mW3hQ",
+     "title": "They KILLED My SONS.. So We CRASHED OUT in GTA 5 RP..",
+     "channel": "Jefe",
+     "channel_url": "https://www.youtube.com/channel/UCCsNkIloRVAF5kxTxORaYTg",
+     "channel_handle": "@DonJefe_",
+     "views": 921925,
+     "likes": 12028,
+     "comments": 40,
+     "uploaded": "2026-08-26",
+     "duration": 4263,
+     "thumb": "https://i.ytimg.com/vi/e7s19-mW3hQ/hqdefault.jpg",
+     "top_comment": {
+      "text": "Jefe carried the summer",
+      "author": "@grampsdih",
+      "likes": 364
+     },
+     "score": 13.443
     }
    ]
   },
@@ -781,7 +781,7 @@
    "id": "minecraft",
    "name": "Minecraft",
    "short": "Minecraft",
-   "why": "Twitch #5 (13.5M h)",
+   "why": "Twitch #3 (16.2M h)",
    "queries": [
     "Minecraft gameplay",
     "Minecraft best builds 2026",
@@ -794,8 +794,8 @@
      "channel": "MrBeast Gaming",
      "channel_url": "https://www.youtube.com/channel/UCIPPMRA040LQr5QPyJEbmXA",
      "channel_handle": "@MrBeastGaming",
-     "views": 101024004,
-     "likes": 1146009,
+     "views": 102970630,
+     "likes": 1154358,
      "comments": 40,
      "uploaded": "2026-06-06",
      "duration": 1608,
@@ -805,26 +805,45 @@
       "author": "@BigMagicJohnJohn",
       "likes": 31000
      },
-     "score": 17.954
+     "score": 17.945
     },
     {
-     "id": "Dy06SXknr_g",
-     "title": "World's Largest Minecraft Build!",
+     "id": "jk6thMe6Vq8",
+     "title": "I Survived 100 Days Of Hardcore Minecraft!",
      "channel": "MrBeast Gaming",
      "channel_url": "https://www.youtube.com/channel/UCIPPMRA040LQr5QPyJEbmXA",
      "channel_handle": "@MrBeastGaming",
-     "views": 51739236,
-     "likes": 663974,
+     "views": 188755017,
+     "likes": 2161864,
      "comments": 40,
-     "uploaded": "2026-08-29",
-     "duration": 1499,
-     "thumb": "https://i.ytimg.com/vi/Dy06SXknr_g/hqdefault.jpg",
+     "uploaded": "2021-07-22",
+     "duration": 937,
+     "thumb": "https://i.ytimg.com/vi/jk6thMe6Vq8/hqdefault.jpg",
      "top_comment": {
-      "text": "Thank you so much for inviting us and flying us out to meet in person! Truly one of the most surreal experiences I've ever had.",
-      "author": "@sammyuri",
-      "likes": 18000
+      "text": "Doesn't live in desert biome because it's \"ugly\" builds dirt house",
+      "author": "@MatMicMarGaming",
+      "likes": 22000
      },
-     "score": 17.64
+     "score": 17.649
+    },
+    {
+     "id": "g22Z__ShvVY",
+     "title": "Minecraft Speedrunner VS 6 Hunters FINALE",
+     "channel": "Dream",
+     "channel_url": "https://www.youtube.com/channel/UCTkXRDQl0luXxVQrRQvWS6w",
+     "channel_handle": "@dream",
+     "views": 13916241,
+     "likes": 467093,
+     "comments": 40,
+     "uploaded": "2026-10-20",
+     "duration": 2989,
+     "thumb": "https://i.ytimg.com/vi/g22Z__ShvVY/hqdefault.jpg",
+     "top_comment": {
+      "text": "Controversy or no, real or not, this series is one of the most entertaining and rewatchable on YouTube period. IMHO. Make more!",
+      "author": "@IAmUnleashed1",
+      "likes": 50000
+     },
+     "score": 17.544
     },
     {
      "id": "ox-OW3MMfes",
@@ -832,8 +851,8 @@
      "channel": "CoryxKenshin",
      "channel_url": "https://www.youtube.com/channel/UCiYcA0gJzg855iSKMrX3oHg",
      "channel_handle": "@CoryxKenshin",
-     "views": 14291928,
-     "likes": 833599,
+     "views": 14321726,
+     "likes": 833700,
      "comments": 40,
      "uploaded": "2020-04-24",
      "duration": 1333,
@@ -843,7 +862,7 @@
       "author": "@PissApocalypse",
       "likes": 32000
      },
-     "score": 17.233
+     "score": 17.231
     },
     {
      "id": "YV-576jC1BU",
@@ -851,8 +870,8 @@
      "channel": "LDShadowLady",
      "channel_url": "https://www.youtube.com/channel/UCzTlXb7ivVzuFlugVCv3Kvg",
      "channel_handle": "@ldshadowlady",
-     "views": 61164255,
-     "likes": 790157,
+     "views": 61190270,
+     "likes": 790163,
      "comments": 40,
      "uploaded": "2021-01-30",
      "duration": 1881,
@@ -870,8 +889,8 @@
      "channel": "ezY",
      "channel_url": "https://www.youtube.com/channel/UCJLklPT2rmAF33gVyHYH-QQ",
      "channel_handle": "@ezyYT",
-     "views": 45818858,
-     "likes": 437762,
+     "views": 45865280,
+     "likes": 437902,
      "comments": 40,
      "uploaded": "2022-11-19",
      "duration": 8054,
@@ -889,8 +908,8 @@
      "channel": "Forge Labs",
      "channel_url": "https://www.youtube.com/channel/UCiSVf-UpLC9rRjAT1qRTW0g",
      "channel_handle": "@ForgeLabs",
-     "views": 8396171,
-     "likes": 108618,
+     "views": 8860477,
+     "likes": 111990,
      "comments": 40,
      "uploaded": "2026-10-10",
      "duration": 10804,
@@ -898,9 +917,9 @@
      "top_comment": {
       "text": "Sean immediately getting attacked by a bear and almost dying right off the bat is so perfect",
       "author": "@samsfoilcreations9006",
-      "likes": 4700
+      "likes": 4900
      },
-     "score": 15.95
+     "score": 15.96
     },
     {
      "id": "yUX7zYyM03g",
@@ -908,8 +927,8 @@
      "channel": "Forge Labs",
      "channel_url": "https://www.youtube.com/channel/UCiSVf-UpLC9rRjAT1qRTW0g",
      "channel_handle": "@ForgeLabs",
-     "views": 9491970,
-     "likes": 116927,
+     "views": 9591190,
+     "likes": 117526,
      "comments": 40,
      "uploaded": "2026-05-16",
      "duration": 12295,
@@ -919,64 +938,45 @@
       "author": "@ZwoodsRacing",
       "likes": 16000
      },
-     "score": 15.455
+     "score": 15.445
     },
     {
-     "id": "laObDohaX6I",
-     "title": "How To Enjoy MINECRAFT Longterm",
-     "channel": "Techbot Gaming",
-     "channel_url": "https://www.youtube.com/channel/UCDysrdttjZ4CTNsEdp4FbkQ",
-     "channel_handle": "@TechbotHimself",
-     "views": 4785695,
-     "likes": 174833,
+     "id": "duJmlM4WGVQ",
+     "title": "I Died In Minecraft Hardcore... Kinda",
+     "channel": "Kolanii",
+     "channel_url": "https://www.youtube.com/channel/UC_GDu2QH3kp6vJlgEYyqjUA",
+     "channel_handle": "@Kolanii",
+     "views": 27419643,
+     "likes": 199915,
      "comments": 40,
-     "uploaded": "2024-12-17",
-     "duration": 717,
-     "thumb": "https://i.ytimg.com/vi/laObDohaX6I/hqdefault.jpg",
+     "uploaded": "2024-07-10",
+     "duration": 1163,
+     "thumb": "https://i.ytimg.com/vi/duJmlM4WGVQ/hqdefault.jpg",
      "top_comment": {
-      "text": "Watching this BEFORE you get burnt out is so much more important than after/already feeling burnt out",
-      "author": "@BoWSkittlez",
-      "likes": 15000
+      "text": "In his defense, he did do the whole thing without making ONE mistake...",
+      "author": "@vampyrekitty",
+      "likes": 21000
      },
-     "score": 15.222
+     "score": 15.32
     },
     {
-     "id": "S_koGAGifMo",
-     "title": "I Survived 1000 Days in Minecraft Hardcore [FULL MOVIE]",
-     "channel": "aCookieGod",
-     "channel_url": "https://www.youtube.com/channel/UCIVSqoHCUN1XdEpiVItxfoQ",
-     "channel_handle": "@aCookieGod",
-     "views": 16641915,
-     "likes": 204995,
+     "id": "Uy9nkvQ7BTM",
+     "title": "I Collected All 30 Structures in Minecraft Hardcore",
+     "channel": "Beppo",
+     "channel_url": "https://www.youtube.com/channel/UC9OABighzB6Qr5OAOm5RLdA",
+     "channel_handle": "@Beppojoe",
+     "views": 14426483,
+     "likes": 225875,
      "comments": 40,
-     "uploaded": "2022-12-14",
-     "duration": 20256,
-     "thumb": "https://i.ytimg.com/vi/S_koGAGifMo/hqdefault.jpg",
+     "uploaded": "2024-04-03",
+     "duration": 4038,
+     "thumb": "https://i.ytimg.com/vi/Uy9nkvQ7BTM/hqdefault.jpg",
      "top_comment": {
-      "text": "Who’s in 2026(Edit:I’m turning off my YouTube notifications!)",
-      "author": "@PRIMEKOBO",
-      "likes": 3200
+      "text": "BROO THERE IS NOT THE END CITY 😢",
+      "author": "@mariusilea-paul9328",
+      "likes": 14000
      },
-     "score": 15.213
-    },
-    {
-     "id": "KpDx6nN5nK8",
-     "title": "Minecraft Solo Hardcore Day 1",
-     "channel": "CaseOh",
-     "channel_url": "https://www.youtube.com/channel/UC63anZxfVGHUEmfBAf5w7pw",
-     "channel_handle": "@caseoh_",
-     "views": 15304304,
-     "likes": 158471,
-     "comments": 40,
-     "uploaded": "2024-06-24",
-     "duration": 12703,
-     "thumb": "https://i.ytimg.com/vi/KpDx6nN5nK8/hqdefault.jpg",
-     "top_comment": {
-      "text": "The ENTIRE time I was just screaming at him to place torches in the caves man. What kind of maniac plays hardcore and just walks around in pitch black dark caves 😭😭😭",
-      "author": "@rageus11",
-      "likes": 18000
-     },
-     "score": 15.01
+     "score": 15.318
     }
    ]
   },
@@ -984,7 +984,7 @@
    "id": "valorant",
    "name": "VALORANT",
    "short": "VALORANT",
-   "why": "Twitch #6 (10.6M h)",
+   "why": "Twitch #6 (10.3M h)",
    "queries": [
     "Valorant highlights",
     "Valorant best plays 2026",
@@ -997,8 +997,8 @@
      "channel": "Jynxzi",
      "channel_url": "https://www.youtube.com/channel/UCjiXtODGCCulmhwypZAWSag",
      "channel_handle": "@Jynxzi",
-     "views": 1127335,
-     "likes": 26328,
+     "views": 1144496,
+     "likes": 26461,
      "comments": 40,
      "uploaded": "2026-03-18",
      "duration": 3944,
@@ -1008,7 +1008,7 @@
       "author": "@TheRealZerkey",
       "likes": 3400
      },
-     "score": 13.705
+     "score": 13.694
     },
     {
      "id": "mfBoy9PyqR8",
@@ -1016,8 +1016,8 @@
      "channel": "Rawzu",
      "channel_url": "https://www.youtube.com/channel/UCxFYJYPdSCrVSWvwaGnvP1Q",
      "channel_handle": "@Rawzu",
-     "views": 2522419,
-     "likes": 37533,
+     "views": 2535755,
+     "likes": 37589,
      "comments": 40,
      "uploaded": "2025-01-18",
      "duration": 1218,
@@ -1027,7 +1027,26 @@
       "author": "@2stormys",
       "likes": 801
      },
-     "score": 13.43
+     "score": 13.427
+    },
+    {
+     "id": "1ipFDyilXOc",
+     "title": "13 Most Common Low Elo Mistakes in Valorant",
+     "channel": "Konpeki",
+     "channel_url": "https://www.youtube.com/channel/UCv1zbx03PIvqG8cHNpWWWUw",
+     "channel_handle": "@CoachKonpeki",
+     "views": 1595424,
+     "likes": 29354,
+     "comments": 40,
+     "uploaded": "2025-08-15",
+     "duration": 798,
+     "thumb": "https://i.ytimg.com/vi/1ipFDyilXOc/hqdefault.jpg",
+     "top_comment": {
+      "text": "whenever i look at my minimap i get peeked by 3 people",
+      "author": "@Dooley_3",
+      "likes": 852
+     },
+     "score": 13.304
     },
     {
      "id": "Wrdh5HrOCMc",
@@ -1035,8 +1054,8 @@
      "channel": "Throneful",
      "channel_url": "https://www.youtube.com/channel/UCIw5rbXUrtk31t20Ap5817w",
      "channel_handle": "@Throneful",
-     "views": 3964277,
-     "likes": 32059,
+     "views": 3966145,
+     "likes": 32057,
      "comments": 40,
      "uploaded": "2020-06-25",
      "duration": 1424,
@@ -1054,8 +1073,8 @@
      "channel": "Swolabear",
      "channel_url": "https://www.youtube.com/channel/UCiahNQ1YjzkVmM5ejJODbig",
      "channel_handle": "@swolabear",
-     "views": 1799044,
-     "likes": 30001,
+     "views": 1809194,
+     "likes": 30037,
      "comments": 40,
      "uploaded": "2024-09-06",
      "duration": 948,
@@ -1065,7 +1084,7 @@
       "author": "@twoaunderscore",
       "likes": 1800
      },
-     "score": 13.142
+     "score": 13.14
     },
     {
      "id": "AuZ5vf0rLx8",
@@ -1073,8 +1092,8 @@
      "channel": "VALORANT Champions Tour",
      "channel_url": "https://www.youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw",
      "channel_handle": "@ValorantEsports",
-     "views": 1282072,
-     "likes": 21014,
+     "views": 1290054,
+     "likes": 21035,
      "comments": 40,
      "uploaded": "2025-12-08",
      "duration": 1256,
@@ -1084,45 +1103,26 @@
       "author": "@Mh2sK1",
       "likes": 1400
      },
-     "score": 13.125
+     "score": 13.115
     },
     {
-     "id": "6OEV1NwSDak",
-     "title": "Valorant as a NEW Player in 2026…I Almost Quit Immediately",
-     "channel": "CupppaJoe+",
-     "channel_url": "https://www.youtube.com/channel/UCuZhxhPKH2AKRlIJafist1A",
-     "channel_handle": "@CupppaJoePlus",
-     "views": 597889,
-     "likes": 16023,
+     "id": "6anCog6CZto",
+     "title": "This Is How I Always Top Frag in Radiant | VALORANT Visual Guide 2026",
+     "channel": "Haeyoday",
+     "channel_url": "https://www.youtube.com/channel/UCHUMCTTBmxODFAdibMC7v7Q",
+     "channel_handle": "@haeyoday",
+     "views": 355491,
+     "likes": 8950,
      "comments": 40,
-     "uploaded": "2025-11-27",
-     "duration": 1320,
-     "thumb": "https://i.ytimg.com/vi/6OEV1NwSDak/hqdefault.jpg",
+     "uploaded": "2026-04-30",
+     "duration": 2318,
+     "thumb": "https://i.ytimg.com/vi/6anCog6CZto/hqdefault.jpg",
      "top_comment": {
-      "text": "when he said \"why are we not planting the spike\" is when i knew this guy has become a valorant player",
-      "author": "@Ryuk-qu6oo",
-      "likes": 4300
+      "text": "pretty easy kill here (shoots raze mid satchel)",
+      "author": "@LEGENSAHUR",
+      "likes": 1800
      },
-     "score": 13.074
-    },
-    {
-     "id": "S-9R1yY17cY",
-     "title": "HUSH is the HARDEST agent in Valorant (#2)",
-     "channel": "Keeoh",
-     "channel_url": "https://www.youtube.com/channel/UCeIcwvxA_e5Dvrqg3rsuN1w",
-     "channel_handle": "@Keeoh",
-     "views": 319538,
-     "likes": 6593,
-     "comments": 40,
-     "uploaded": "2026-10-30",
-     "duration": 2056,
-     "thumb": "https://i.ytimg.com/vi/S-9R1yY17cY/hqdefault.jpg",
-     "top_comment": {
-      "text": "Hush might have the highest skill ceiling but i think the amount of effort it'll take to get that good with her will filter out the low rank players",
-      "author": "@Spinomodo",
-      "likes": 332
-     },
-     "score": 12.85
+     "score": 12.669
     },
     {
      "id": "VJQ7MuLhSOY",
@@ -1130,8 +1130,8 @@
      "channel": "VALORANT Champions Tour",
      "channel_url": "https://www.youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw",
      "channel_handle": "@ValorantEsports",
-     "views": 477801,
-     "likes": 9536,
+     "views": 482013,
+     "likes": 9564,
      "comments": 40,
      "uploaded": "2026-03-20",
      "duration": 568,
@@ -1139,9 +1139,9 @@
      "top_comment": {
       "text": "9:13 “The gods of chaos have new favorite sons”",
       "author": "@PMSuyeon",
-      "likes": 575
+      "likes": 576
      },
-     "score": 12.517
+     "score": 12.505
     },
     {
      "id": "SWNZF9_nO5Y",
@@ -1149,8 +1149,8 @@
      "channel": "Haeyoday",
      "channel_url": "https://www.youtube.com/channel/UCHUMCTTBmxODFAdibMC7v7Q",
      "channel_handle": "@haeyoday",
-     "views": 345433,
-     "likes": 8434,
+     "views": 346390,
+     "likes": 8438,
      "comments": 40,
      "uploaded": "2026-02-14",
      "duration": 1873,
@@ -1158,28 +1158,28 @@
      "top_comment": {
       "text": "bros handcam looks like a photo",
       "author": "@broatato",
-      "likes": 340
+      "likes": 341
      },
-     "score": 12.468
+     "score": 12.455
     },
     {
-     "id": "lUfrMRb74SE",
-     "title": "How to Get So Good at Valorant it Feels Like Smurfing",
-     "channel": "Konpeki",
-     "channel_url": "https://www.youtube.com/channel/UCv1zbx03PIvqG8cHNpWWWUw",
-     "channel_handle": "@CoachKonpeki",
-     "views": 451965,
-     "likes": 4790,
+     "id": "6mDtVeGGks4",
+     "title": "FIN DEL JUEGO... | Horcus Valorant",
+     "channel": "Horcus",
+     "channel_url": "https://www.youtube.com/channel/UCedEX8328ZDU9Yn_PUge-ow",
+     "channel_handle": "@Horcus",
+     "views": 266275,
+     "likes": 4542,
      "comments": 40,
-     "uploaded": "2026-09-04",
-     "duration": 551,
-     "thumb": "https://i.ytimg.com/vi/lUfrMRb74SE/hqdefault.jpg",
+     "uploaded": "2026-09-27",
+     "duration": 3597,
+     "thumb": "https://i.ytimg.com/vi/6mDtVeGGks4/hqdefault.jpg",
      "top_comment": {
-      "text": "SMURFS also have 120Hz+ monitors with consistent 200FPS+, unlike my 100FPS that drops to 65FPS everytime i tap my vandal.",
-      "author": "@mubtasimnawar1494",
-      "likes": 103
+      "text": "las gemas del radiante: la gema del mental, la gema de la disciplina, la gema del ego ,la gema del aim, la gema del gamesense y la gema de la comunicación",
+      "author": "@juanselpro8866",
+      "likes": 94
      },
-     "score": 12.317
+     "score": 12.344
     }
    ]
   },
@@ -1187,7 +1187,7 @@
    "id": "dota2",
    "name": "Dota 2",
    "short": "Dota 2",
-   "why": "Twitch #7 (9.4M h) · Steam #2 most played",
+   "why": "Twitch #7 (9.0M h) · Steam top sellers #5",
    "queries": [
     "Dota 2 highlights",
     "Dota 2 best plays 2026",
@@ -1195,23 +1195,23 @@
    ],
    "videos": [
     {
-     "id": "kvZT_Sg5M4k",
-     "title": "Why I Swapped To Dota 2 After Playing League Of Legends For A Decade",
-     "channel": "Tlee",
-     "channel_url": "https://www.youtube.com/channel/UCZvlUAtDSY4RLdnfWu9aaIA",
-     "channel_handle": "@tlee3205",
-     "views": 1096227,
-     "likes": 21862,
+     "id": "em0DDuZbjdQ",
+     "title": "Trailer SFM The International 2026 Dota 2",
+     "channel": "DotaCinema",
+     "channel_url": "https://www.youtube.com/channel/UCNRQ-DWUXf4UVN9L31Y9f3Q",
+     "channel_handle": "@DotaCinema",
+     "views": 174824,
+     "likes": 6943,
      "comments": 40,
-     "uploaded": "2025-11-24",
-     "duration": 1406,
-     "thumb": "https://i.ytimg.com/vi/kvZT_Sg5M4k/hqdefault.jpg",
+     "uploaded": "2026-08-23",
+     "duration": 214,
+     "thumb": "https://i.ytimg.com/vi/em0DDuZbjdQ/hqdefault.jpg",
      "top_comment": {
-      "text": "this is like watching someone learn that not all food tastes like cardboard",
-      "author": "@jimmyproton9901",
-      "likes": 9700
+      "text": "Watching Dota 2 Reporter again brought tears to my face T_T",
+      "author": "@GosuGamersOfficial",
+      "likes": 945
      },
-     "score": 13.484
+     "score": 12.891
     },
     {
      "id": "Gh8HoRr4Ml0",
@@ -1219,18 +1219,18 @@
      "channel": "PGL DOTA2",
      "channel_url": "https://www.youtube.com/channel/UC7VWLs_Ivccq22rM2_xo0Rg",
      "channel_handle": "@PGL_DOTA2",
-     "views": 795721,
-     "likes": 5380,
+     "views": 808350,
+     "likes": 5413,
      "comments": 40,
      "uploaded": "2026-08-23",
      "duration": 4077,
      "thumb": "https://i.ytimg.com/vi/Gh8HoRr4Ml0/hqdefault.jpg",
      "top_comment": {
-      "text": "Yatoro is officially the GOAT now",
-      "author": "@rmaming001",
+      "text": "I think Collapse has cemented himself as the Greatest Offlane of All Time (GOAT).",
+      "author": "@wil3zra229",
       "likes": 1200
      },
-     "score": 12.784
+     "score": 12.771
     },
     {
      "id": "GBidzXfvqwU",
@@ -1238,8 +1238,8 @@
      "channel": "CupppaJoe+",
      "channel_url": "https://www.youtube.com/channel/UCuZhxhPKH2AKRlIJafist1A",
      "channel_handle": "@CupppaJoePlus",
-     "views": 346484,
-     "likes": 5556,
+     "views": 353250,
+     "likes": 5610,
      "comments": 40,
      "uploaded": "2026-05-15",
      "duration": 1410,
@@ -1249,7 +1249,7 @@
       "author": "@PerroConChaleco",
       "likes": 2600
      },
-     "score": 12.43
+     "score": 12.423
     },
     {
      "id": "ColfvV3PGvc",
@@ -1257,8 +1257,8 @@
      "channel": "hOlyhexOr",
      "channel_url": "https://www.youtube.com/channel/UC1YCxISkweN5vLsOJ0zElZQ",
      "channel_handle": "@hOlyhexOr",
-     "views": 2167796,
-     "likes": 13724,
+     "views": 2170403,
+     "likes": 13738,
      "comments": 40,
      "uploaded": "2023-03-26",
      "duration": 1318,
@@ -1276,8 +1276,8 @@
      "channel": "DATOHLEONG",
      "channel_url": "https://www.youtube.com/channel/UCrRlDvN5Ea2OauDLtNBMyfw",
      "channel_handle": "@datohleonggez",
-     "views": 666232,
-     "likes": 11957,
+     "views": 673624,
+     "likes": 12022,
      "comments": 40,
      "uploaded": "2025-03-03",
      "duration": 751,
@@ -1290,42 +1290,23 @@
      "score": 12.344
     },
     {
-     "id": "PMWvTEgC5o4",
-     "title": "Dota 2 WTF Moments 651",
-     "channel": "Dota Watafak",
-     "channel_url": "https://www.youtube.com/channel/UC18NaGQLruOEw65eQE3bNbg",
-     "channel_handle": "@DotaWatafak",
-     "views": 306527,
-     "likes": 3497,
+     "id": "yMQYK4EnGkw",
+     "title": "GRAND FINAL! TEAM YANDEX vs TEAM SPIRIT - Official Highlights - BLAST SLAM VIII Dota 2",
+     "channel": "BLAST SLAM Dota 2",
+     "channel_url": "https://www.youtube.com/channel/UCAvIC2XmBLLXFPdveirTrmw",
+     "channel_handle": "@BLASTDota",
+     "views": 567094,
+     "likes": 1953,
      "comments": 40,
-     "uploaded": "2026-09-21",
-     "duration": 544,
-     "thumb": "https://i.ytimg.com/vi/PMWvTEgC5o4/hqdefault.jpg",
+     "uploaded": "2026-10-11",
+     "duration": 3964,
+     "thumb": "https://i.ytimg.com/vi/yMQYK4EnGkw/hqdefault.jpg",
      "top_comment": {
-      "text": "The rampage was EPIC! every Rubick player's dream come true.",
-      "author": "@fedeph665",
-      "likes": 118
+      "text": "Ammar is the perfect final puzzle piece for this Yandex' roster.",
+      "author": "@thexgamer8240",
+      "likes": 387
      },
-     "score": 12.077
-    },
-    {
-     "id": "M4YL3N-Vozo",
-     "title": "NIGMA GALAXY vs TEAM FALCONS - HIGHLIGHTS - The International 2026 | DOTA 2",
-     "channel": "PGL DOTA2",
-     "channel_url": "https://www.youtube.com/channel/UC7VWLs_Ivccq22rM2_xo0Rg",
-     "channel_handle": "@PGL_DOTA2",
-     "views": 223913,
-     "likes": 2015,
-     "comments": 40,
-     "uploaded": "2026-08-20",
-     "duration": 1935,
-     "thumb": "https://i.ytimg.com/vi/M4YL3N-Vozo/hqdefault.jpg",
-     "top_comment": {
-      "text": "I could feel hundred thousands of people's hearts drop simultaneously during that high ground fail. It was like an entire town got PTSD at the same time lmao",
-      "author": "@so-toa9758",
-      "likes": 537
-     },
-     "score": 11.637
+     "score": 12.051
     },
     {
      "id": "FU6jTEfTBTY",
@@ -1333,8 +1314,8 @@
      "channel": "Dota 2 Rapier",
      "channel_url": "https://www.youtube.com/channel/UC0NM4tKT5s9szqnK3jp6dEw",
      "channel_handle": "@Dota2Rapier",
-     "views": 316434,
-     "likes": 1080,
+     "views": 335372,
+     "likes": 1108,
      "comments": 40,
      "uploaded": "2026-10-28",
      "duration": 2134,
@@ -1342,9 +1323,9 @@
      "top_comment": {
       "text": "Topson is never boring, 3000 IQ blinks into teamwipes, and -3000 IQ blinks into 20 mines, all in the same game.",
       "author": "@numbonvalium",
-      "likes": 357
+      "likes": 366
      },
-     "score": 11.554
+     "score": 11.565
     },
     {
      "id": "qv5MT__VxB0",
@@ -1352,8 +1333,8 @@
      "channel": "Dota 2 Rapier",
      "channel_url": "https://www.youtube.com/channel/UC0NM4tKT5s9szqnK3jp6dEw",
      "channel_handle": "@Dota2Rapier",
-     "views": 221926,
-     "likes": 790,
+     "views": 292704,
+     "likes": 916,
      "comments": 40,
      "uploaded": "2026-11-01",
      "duration": 2837,
@@ -1361,9 +1342,9 @@
      "top_comment": {
       "text": "Batyuk MVP. One off best offlane tournament performance I hv seen.",
       "author": "@Phoenix-il5hc",
-      "likes": 193
+      "likes": 206
      },
-     "score": 11.254
+     "score": 11.425
     },
     {
      "id": "NVT-Iu8ZDxA",
@@ -1371,8 +1352,8 @@
      "channel": "hOlyhexOr",
      "channel_url": "https://www.youtube.com/channel/UC1YCxISkweN5vLsOJ0zElZQ",
      "channel_handle": "@hOlyhexOr",
-     "views": 191191,
-     "likes": 1383,
+     "views": 193787,
+     "likes": 1389,
      "comments": 40,
      "uploaded": "2026-08-24",
      "duration": 1221,
@@ -1382,7 +1363,26 @@
       "author": "@toniilievski3934",
       "likes": 187
      },
-     "score": 11.165
+     "score": 11.15
+    },
+    {
+     "id": "UUKCuOy6nu4",
+     "title": "TEAM VISION vs TEAM FALCONS - HIGHLIGHTS - The International 2026 | DOTA 2",
+     "channel": "PGL DOTA2",
+     "channel_url": "https://www.youtube.com/channel/UC7VWLs_Ivccq22rM2_xo0Rg",
+     "channel_handle": "@PGL_DOTA2",
+     "views": 152165,
+     "likes": 1171,
+     "comments": 40,
+     "uploaded": "2026-08-13",
+     "duration": 2228,
+     "thumb": "https://i.ytimg.com/vi/UUKCuOy6nu4/hqdefault.jpg",
+     "top_comment": {
+      "text": "shout out to Lyrical casting 90 mins throat must be hurting as hell",
+      "author": "@yuikonnu5079",
+      "likes": 171
+     },
+     "score": 10.978
     }
    ]
   },
@@ -1390,7 +1390,7 @@
    "id": "fortnite",
    "name": "Fortnite",
    "short": "Fortnite",
-   "why": "Twitch #8 (9.0M h)",
+   "why": "Twitch #8 (8.1M h)",
    "queries": [
     "Fortnite gameplay",
     "Fortnite best moments 2026",
@@ -1398,13 +1398,51 @@
    ],
    "videos": [
     {
+     "id": "3KgmY5NrEzU",
+     "title": "Fortnite Chapter 2 | Launch Trailer",
+     "channel": "Fortnite",
+     "channel_url": "https://www.youtube.com/channel/UClG8odDC8TS6Zpqk9CGVQiQ",
+     "channel_handle": "@fortnite",
+     "views": 48231482,
+     "likes": 516746,
+     "comments": 40,
+     "uploaded": "2019-10-15",
+     "duration": 124,
+     "thumb": "https://i.ytimg.com/vi/3KgmY5NrEzU/hqdefault.jpg",
+     "top_comment": {
+      "text": "Now everybody can say \"I have playing since Season 1.\"",
+      "author": "@Zichfried",
+      "likes": 15000
+     },
+     "score": 16.202
+    },
+    {
+     "id": "qVHPG72r3Dw",
+     "title": "The ENTIRE History of Fortnite: Animated!",
+     "channel": "SypherPK",
+     "channel_url": "https://www.youtube.com/channel/UC_q5WZtFp36adwqhKpZzxwQ",
+     "channel_handle": "@SypherPK",
+     "views": 22544165,
+     "likes": 376789,
+     "comments": 40,
+     "uploaded": "2022-11-26",
+     "duration": 1301,
+     "thumb": "https://i.ytimg.com/vi/qVHPG72r3Dw/hqdefault.jpg",
+     "top_comment": {
+      "text": "If this gets 20k likes SypherPK has to send me a new PC",
+      "author": "@gingFN-Unreal",
+      "likes": 15000
+     },
+     "score": 15.746
+    },
+    {
      "id": "ct6KQ841cO8",
      "title": "Nick Eh 30's FIRST REACTION to Fortnite Season 4! (Chapter 2)",
      "channel": "Nick Eh 30",
      "channel_url": "https://www.youtube.com/channel/UCt9nYeSz90lnOnaVFjxFJzw",
      "channel_handle": "@NickEh30",
-     "views": 17695119,
-     "likes": 176649,
+     "views": 17700464,
+     "likes": 176613,
      "comments": 40,
      "uploaded": "2020-08-28",
      "duration": 955,
@@ -1422,8 +1460,8 @@
      "channel": "Top5Gaming",
      "channel_url": "https://www.youtube.com/channel/UCYn6CZe5UGIyPe9WJb0pTrg",
      "channel_handle": "@T5G",
-     "views": 7319111,
-     "likes": 128993,
+     "views": 7325430,
+     "likes": 129006,
      "comments": 40,
      "uploaded": "2023-11-28",
      "duration": 2749,
@@ -1433,7 +1471,7 @@
       "author": "@MarkSetAction",
       "likes": 9000
      },
-     "score": 14.57
+     "score": 14.569
     },
     {
      "id": "5EIK62B6C1E",
@@ -1441,8 +1479,8 @@
      "channel": "SypherPK",
      "channel_url": "https://www.youtube.com/channel/UC_q5WZtFp36adwqhKpZzxwQ",
      "channel_handle": "@SypherPK",
-     "views": 7341226,
-     "likes": 99794,
+     "views": 7356542,
+     "likes": 99866,
      "comments": 40,
      "uploaded": "2024-07-28",
      "duration": 2887,
@@ -1452,7 +1490,26 @@
       "author": "@Carlosw1x",
       "likes": 7600
      },
-     "score": 14.508
+     "score": 14.506
+    },
+    {
+     "id": "40SlM2Sh8OU",
+     "title": "Nick Eh 30 reacts to Fortnite Chapter 3 GAMEPLAY!",
+     "channel": "Nick Eh 30",
+     "channel_url": "https://www.youtube.com/channel/UCt9nYeSz90lnOnaVFjxFJzw",
+     "channel_handle": "@NickEh30",
+     "views": 6542627,
+     "likes": 85683,
+     "comments": 40,
+     "uploaded": "2021-12-06",
+     "duration": 1073,
+     "thumb": "https://i.ytimg.com/vi/40SlM2Sh8OU/hqdefault.jpg",
+     "top_comment": {
+      "text": "his reaction made me so happy",
+      "author": "@TimeBucks",
+      "likes": 1100
+     },
+     "score": 14.104
     },
     {
      "id": "3a2WaoaBlmE",
@@ -1460,8 +1517,8 @@
      "channel": "Fortnite",
      "channel_url": "https://www.youtube.com/channel/UClG8odDC8TS6Zpqk9CGVQiQ",
      "channel_handle": "@fortnite",
-     "views": 2140772,
-     "likes": 39529,
+     "views": 2170656,
+     "likes": 39728,
      "comments": 40,
      "uploaded": "2025-12-06",
      "duration": 600,
@@ -1471,7 +1528,7 @@
       "author": "@paperverp",
       "likes": 2900
      },
-     "score": 13.977
+     "score": 13.971
     },
     {
      "id": "7p5Sp7zPknQ",
@@ -1479,8 +1536,8 @@
      "channel": "TG Plays",
      "channel_url": "https://www.youtube.com/channel/UCqVCSWnuOSPm26orvNDTuWQ",
      "channel_handle": "@TGplays",
-     "views": 5123454,
-     "likes": 36609,
+     "views": 5125454,
+     "likes": 36603,
      "comments": 40,
      "uploaded": "2024-02-11",
      "duration": 4527,
@@ -1490,26 +1547,7 @@
       "author": "@chicken",
       "likes": 665
      },
-     "score": 13.413
-    },
-    {
-     "id": "7zPT5czKVY4",
-     "title": "The Best Fortnite Chapter",
-     "channel": "SypherPK",
-     "channel_url": "https://www.youtube.com/channel/UC_q5WZtFp36adwqhKpZzxwQ",
-     "channel_handle": "@SypherPK",
-     "views": 339330,
-     "likes": 11436,
-     "comments": 40,
-     "uploaded": "2026-07-13",
-     "duration": 1232,
-     "thumb": "https://i.ytimg.com/vi/7zPT5czKVY4/hqdefault.jpg",
-     "top_comment": {
-      "text": "I miss chapter 4 to this day",
-      "author": "@joshshell210",
-      "likes": 452
-     },
-     "score": 13.37
+     "score": 13.411
     },
     {
      "id": "Kk-Oa-g57qI",
@@ -1517,8 +1555,8 @@
      "channel": "TG Plays",
      "channel_url": "https://www.youtube.com/channel/UCqVCSWnuOSPm26orvNDTuWQ",
      "channel_handle": "@TGplays",
-     "views": 632934,
-     "likes": 7425,
+     "views": 805744,
+     "likes": 8238,
      "comments": 40,
      "uploaded": "2026-11-01",
      "duration": 2679,
@@ -1526,66 +1564,28 @@
      "top_comment": {
       "text": "for anyone who wants to know if the sprites he was collecting were rare, the Plundargh sprite was the 50th IN THE WORLD and the Halfpeeled was the 2nd IN THE WORLD.",
       "author": "@SheldonLeeCooperYouFreakinDawg",
-      "likes": 92
+      "likes": 103
      },
-     "score": 13.142
+     "score": 13.243
     },
     {
-     "id": "dmi_fzJuFhU",
-     "title": "Fortnite - Chapter 2 Launch Trailer | PS4",
-     "channel": "PlayStation",
-     "channel_url": "https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA",
-     "channel_handle": "@PlayStation",
-     "views": 1118831,
-     "likes": 22708,
+     "id": "iV7TqRkezZg",
+     "title": "Fortnite Pirate Token Hunting w/ StableRonaldo | Joe Bartolozzi",
+     "channel": "Joe Bart VODs",
+     "channel_url": "https://www.youtube.com/channel/UC-lfGGqb5hHLBqVnVnWyrsw",
+     "channel_handle": "@JoeBartVOD",
+     "views": 609005,
+     "likes": 7674,
      "comments": 40,
-     "uploaded": "2019-10-15",
-     "duration": 129,
-     "thumb": "https://i.ytimg.com/vi/dmi_fzJuFhU/hqdefault.jpg",
+     "uploaded": "2026-11-06",
+     "duration": 13476,
+     "thumb": "https://i.ytimg.com/vi/iV7TqRkezZg/hqdefault.jpg",
      "top_comment": {
-      "text": "I think the game itself isn't that bad, but the people playing it...",
-      "author": "@lusky0255",
-      "likes": 3200
+      "text": "People in chat saying \"this is not racist at all\" but were crying about hood warfare. Double standards.",
+      "author": "@drnnna111",
+      "likes": 683
      },
-     "score": 12.762
-    },
-    {
-     "id": "uYsQPC-NXeQ",
-     "title": "1,000 of the BEST Fortnite TikToks of 2025!",
-     "channel": "Ali-A²",
-     "channel_url": "https://www.youtube.com/channel/UCAea1C_i5EL0Bu48FM-N6Qw",
-     "channel_handle": "@AliAV2",
-     "views": 3134116,
-     "likes": 10085,
-     "comments": 40,
-     "uploaded": "2025-08-23",
-     "duration": 7589,
-     "thumb": "https://i.ytimg.com/vi/uYsQPC-NXeQ/hqdefault.jpg",
-     "top_comment": {
-      "text": "Whoever is watching when they added sprites back 👇",
-      "author": "@ROrton20",
-      "likes": 124
-     },
-     "score": 12.646
-    },
-    {
-     "id": "_KuFEYfzoHs",
-     "title": "Fortnite's FREE ITEMS Has An INSANE SECRET!",
-     "channel": "Top5Gaming",
-     "channel_url": "https://www.youtube.com/channel/UCYn6CZe5UGIyPe9WJb0pTrg",
-     "channel_handle": "@T5G",
-     "views": 268177,
-     "likes": 4733,
-     "comments": 40,
-     "uploaded": "2026-11-02",
-     "duration": 695,
-     "thumb": "https://i.ytimg.com/vi/_KuFEYfzoHs/hqdefault.jpg",
-     "top_comment": {
-      "text": "The most insane part of this season is how overpowered the slingshot is",
-      "author": "@Theredmarkergt",
-      "likes": 105
-     },
-     "score": 12.594
+     "score": 13.216
     }
    ]
   },
@@ -1593,7 +1593,7 @@
    "id": "mw4",
    "name": "Call of Duty: Modern Warfare 4",
    "short": "CoD MW4",
-   "why": "Twitch #9 (7.4M h) · Steam top sellers #2",
+   "why": "Twitch #11 (6.4M h) · Steam top sellers #2",
    "queries": [
     "Modern Warfare 4 gameplay",
     "Call of Duty Modern Warfare 4",
@@ -1606,8 +1606,8 @@
      "channel": "MKIceAndFire",
      "channel_url": "https://www.youtube.com/channel/UC1bwliGvJogr7cWK0nT2Eag",
      "channel_handle": "@MKIceAndFire",
-     "views": 5385795,
-     "likes": 72590,
+     "views": 5574344,
+     "likes": 74296,
      "comments": 40,
      "uploaded": "2026-10-17",
      "duration": 18154,
@@ -1615,9 +1615,9 @@
      "top_comment": {
       "text": "makarov never learned his lesson about escaping via helicopter",
       "author": "@prometheus7285",
-      "likes": 6800
+      "likes": 6900
      },
-     "score": 15.553
+     "score": 15.554
     },
     {
      "id": "zPaaCvVUp-g",
@@ -1625,8 +1625,8 @@
      "channel": "theRadBrad",
      "channel_url": "https://www.youtube.com/channel/UCpqXJOEqGS-TCnazcHCo0rA",
      "channel_handle": "@theRadBrad",
-     "views": 5158430,
-     "likes": 63373,
+     "views": 5342527,
+     "likes": 64719,
      "comments": 40,
      "uploaded": "2026-10-17",
      "duration": 3700,
@@ -1634,9 +1634,9 @@
      "top_comment": {
       "text": "SO we're all here for the yearly tradition of Brad playing a CoD campaign yeah?",
       "author": "@pyroshilov8474",
-      "likes": 4900
+      "likes": 5100
      },
-     "score": 15.365
+     "score": 15.362
     },
     {
      "id": "TX1c_Bc5J0Q",
@@ -1644,8 +1644,8 @@
      "channel": "Gamer's Little Playground",
      "channel_url": "https://www.youtube.com/channel/UCiZVMOinTQGb8HQu53VbV4Q",
      "channel_handle": "@glp",
-     "views": 3376741,
-     "likes": 31652,
+     "views": 3760509,
+     "likes": 34022,
      "comments": 40,
      "uploaded": "2026-10-17",
      "duration": 19831,
@@ -1653,9 +1653,9 @@
      "top_comment": {
       "text": "Im sorry but the fact ghost still has his mask on while being held hostage is ridiculous",
       "author": "@jacobdurborow5583",
-      "likes": 4400
+      "likes": 4800
      },
-     "score": 14.71
+     "score": 14.771
     },
     {
      "id": "ibfRPLXXUPA",
@@ -1663,8 +1663,8 @@
      "channel": "JEV",
      "channel_url": "https://www.youtube.com/channel/UC7trU46U_9XPDtMnDbiDPUQ",
      "channel_handle": "@Jev",
-     "views": 1061023,
-     "likes": 28069,
+     "views": 1078096,
+     "likes": 28350,
      "comments": 40,
      "uploaded": "2026-10-22",
      "duration": 508,
@@ -1674,7 +1674,7 @@
       "author": "@Jxredg",
       "likes": 3000
      },
-     "score": 14.497
+     "score": 14.48
     },
     {
      "id": "DxzvUkis0WA",
@@ -1682,8 +1682,8 @@
      "channel": "Hollow",
      "channel_url": "https://www.youtube.com/channel/UCmp5y07YIV6i2jPX4x82hVQ",
      "channel_handle": "@HollowPoiint",
-     "views": 1974520,
-     "likes": 24044,
+     "views": 2035629,
+     "likes": 24519,
      "comments": 40,
      "uploaded": "2026-10-17",
      "duration": 17993,
@@ -1691,9 +1691,9 @@
      "top_comment": {
       "text": "You’re 1000% the best channel to watch. No censoring, no talking over cutscenes, full play through day 1. Thank you Hollow",
       "author": "@Langers-c2c",
-      "likes": 2800
+      "likes": 2900
      },
-     "score": 14.361
+     "score": 14.356
     },
     {
      "id": "UFH07XYJTEA",
@@ -1701,8 +1701,8 @@
      "channel": "MoistCr1TiKaL Gaming",
      "channel_url": "https://www.youtube.com/channel/UCxfr3b8IuHSzu22UHnAvHWg",
      "channel_handle": "@MoistCr1TiKaLGamingOfficial",
-     "views": 1444916,
-     "likes": 21624,
+     "views": 1513367,
+     "likes": 22512,
      "comments": 40,
      "uploaded": "2026-10-23",
      "duration": 496,
@@ -1710,9 +1710,28 @@
      "top_comment": {
       "text": "Playing as kim jong un was fire",
       "author": "@onejediboi",
-      "likes": 5700
+      "likes": 6000
      },
-     "score": 14.241
+     "score": 14.255
+    },
+    {
+     "id": "qqBj5r-_-lk",
+     "title": "CALL OF DUTY MODERN WARFARE 4 Campaign Walkthrough Gameplay Part 2 - CAPTAIN PRICE (FULL GAME)",
+     "channel": "theRadBrad",
+     "channel_url": "https://www.youtube.com/channel/UCpqXJOEqGS-TCnazcHCo0rA",
+     "channel_handle": "@theRadBrad",
+     "views": 1472570,
+     "likes": 24015,
+     "comments": 40,
+     "uploaded": "2026-10-18",
+     "duration": 3656,
+     "thumb": "https://i.ytimg.com/vi/qqBj5r-_-lk/hqdefault.jpg",
+     "top_comment": {
+      "text": "GTA 6 gameplay will be a generational walkthrough by Brad",
+      "author": "@brnrdselga",
+      "likes": 1200
+     },
+     "score": 14.224
     },
     {
      "id": "HMKu-66d7sA",
@@ -1720,8 +1739,8 @@
      "channel": "gameranx",
      "channel_url": "https://www.youtube.com/channel/UCNvzD7Z-g64bPXxGzaQaa4g",
      "channel_handle": "@gameranxTV",
-     "views": 1677469,
-     "likes": 18940,
+     "views": 1711481,
+     "likes": 19186,
      "comments": 40,
      "uploaded": "2026-10-20",
      "duration": 960,
@@ -1729,9 +1748,9 @@
      "top_comment": {
       "text": "Hey Jake, why are you ignoring my texts? Don’t pretend that kiss wasn’t special. I miss you and you can’t just use me for one night. You owe me a second date, jerk!",
       "author": "@greenthumb7405",
-      "likes": 5800
+      "likes": 5900
      },
-     "score": 14.156
+     "score": 14.152
     },
     {
      "id": "USxNSsaeqjY",
@@ -1739,8 +1758,8 @@
      "channel": "JEV",
      "channel_url": "https://www.youtube.com/channel/UC7trU46U_9XPDtMnDbiDPUQ",
      "channel_handle": "@Jev",
-     "views": 929432,
-     "likes": 22277,
+     "views": 932604,
+     "likes": 22297,
      "comments": 40,
      "uploaded": "2026-08-21",
      "duration": 660,
@@ -1750,7 +1769,7 @@
       "author": "@xLodus",
       "likes": 6300
      },
-     "score": 14.1
+     "score": 14.079
     },
     {
      "id": "YXWnLKuFp7g",
@@ -1758,8 +1777,8 @@
      "channel": "GameClips",
      "channel_url": "https://www.youtube.com/channel/UCj4lFy4F5PqXD7d41mCKVYw",
      "channel_handle": "@GameClips4KYTT",
-     "views": 1548657,
-     "likes": 15882,
+     "views": 1629696,
+     "likes": 16508,
      "comments": 40,
      "uploaded": "2026-10-17",
      "duration": 8603,
@@ -1767,28 +1786,9 @@
      "top_comment": {
       "text": "No doubt kim jong un playing this in his palace rn",
       "author": "@RFA1988",
-      "likes": 4200
+      "likes": 4300
      },
-     "score": 13.984
-    },
-    {
-     "id": "-vb-O4NS6NI",
-     "title": "Call of Duty: Modern Warfare 4 - The Full Game",
-     "channel": "TmarTn2",
-     "channel_url": "https://www.youtube.com/channel/UC36MGPfPwOWafAXauiV4LdA",
-     "channel_handle": "@TmarTn2",
-     "views": 1420834,
-     "likes": 16144,
-     "comments": 40,
-     "uploaded": "2026-10-21",
-     "duration": 19321,
-     "thumb": "https://i.ytimg.com/vi/-vb-O4NS6NI/hqdefault.jpg",
-     "top_comment": {
-      "text": "bro if been waiting for 48 hours for episode one and he just drops the whole game🤣",
-      "author": "@manutdsupporter2012",
-      "likes": 2100
-     },
-     "score": 13.928
+     "score": 13.998
     }
    ]
   },
@@ -1796,7 +1796,7 @@
    "id": "phantomblade",
    "name": "Phantom Blade Zero",
    "short": "Phantom Blade",
-   "why": "Steam top sellers #1 · Twitch #12 (5.5M h)",
+   "why": "Steam top sellers #1 · Twitch #10 (7.4M h)",
    "queries": [
     "Phantom Blade Zero gameplay",
     "Phantom Blade Zero boss fight",
@@ -1809,8 +1809,8 @@
      "channel": "JEV",
      "channel_url": "https://www.youtube.com/channel/UC7trU46U_9XPDtMnDbiDPUQ",
      "channel_handle": "@Jev",
-     "views": 721688,
-     "likes": 31049,
+     "views": 806932,
+     "likes": 32617,
      "comments": 40,
      "uploaded": "2026-10-29",
      "duration": 1462,
@@ -1818,9 +1818,9 @@
      "top_comment": {
       "text": "something that isn’t cod BANG",
       "author": "@vinny8204",
-      "likes": 1000
+      "likes": 1100
      },
-     "score": 14.76
+     "score": 14.745
     },
     {
      "id": "Wf9irsB_ETs",
@@ -1828,8 +1828,8 @@
      "channel": "gameranx",
      "channel_url": "https://www.youtube.com/channel/UCNvzD7Z-g64bPXxGzaQaa4g",
      "channel_handle": "@gameranxTV",
-     "views": 1579045,
-     "likes": 24107,
+     "views": 1695851,
+     "likes": 25144,
      "comments": 40,
      "uploaded": "2026-10-26",
      "duration": 831,
@@ -1837,9 +1837,9 @@
      "top_comment": {
       "text": "The last few months have been so insane. My wallet and backlog are hurting. This one is another one I want. So many good games I’m at a point where I’m actually okay with GTA not coming out for a little while 😂",
       "author": "@loganross8886",
-      "likes": 2000
+      "likes": 2100
      },
-     "score": 14.433
+     "score": 14.455
     },
     {
      "id": "Su2maIu9yY8",
@@ -1847,8 +1847,8 @@
      "channel": "Asmongold TV  ",
      "channel_url": "https://www.youtube.com/channel/UCQeRaTukNYft1_6AZPACnog",
      "channel_handle": "@AsmonTV",
-     "views": 1131262,
-     "likes": 24388,
+     "views": 1256546,
+     "likes": 25079,
      "comments": 40,
      "uploaded": "2026-10-30",
      "duration": 15359,
@@ -1856,9 +1856,9 @@
      "top_comment": {
       "text": "Gamers just want to game. If big companies in the west only realized that. I enjoy seeing a Gamer get excited over games. It doesn't happen enough now days with western studioes.",
       "author": "@redbullwarrior8944",
-      "likes": 930
+      "likes": 1000
      },
-     "score": 14.416
+     "score": 14.418
     },
     {
      "id": "eRByk5G3nck",
@@ -1866,8 +1866,8 @@
      "channel": "Skill Up",
      "channel_url": "https://www.youtube.com/channel/UCZ7AeeVbyslLM_8-nVy2B8Q",
      "channel_handle": "@SkillUp",
-     "views": 922576,
-     "likes": 17247,
+     "views": 958131,
+     "likes": 17655,
      "comments": 40,
      "uploaded": "2026-10-26",
      "duration": 1707,
@@ -1875,9 +1875,9 @@
      "top_comment": {
       "text": "RIP for the dads whose backlog never shrinks.",
       "author": "@Astrosaiyan24",
-      "likes": 2000
+      "likes": 2100
      },
-     "score": 14.111
+     "score": 14.108
     },
     {
      "id": "1Ti1jGxiBcw",
@@ -1885,18 +1885,18 @@
      "channel": "theRadBrad",
      "channel_url": "https://www.youtube.com/channel/UCpqXJOEqGS-TCnazcHCo0rA",
      "channel_handle": "@theRadBrad",
-     "views": 790824,
-     "likes": 13804,
+     "views": 932680,
+     "likes": 15165,
      "comments": 40,
      "uploaded": "2026-10-29",
      "duration": 5707,
      "thumb": "https://i.ytimg.com/vi/1Ti1jGxiBcw/hqdefault.jpg",
      "top_comment": {
-      "text": "LIKE 8 YEARS AGO I WAS 10, IM NOW TURNING 18 THIS YEAR, LOVE YOU BRAD!.",
-      "author": "@Draconi_KING",
-      "likes": 175
+      "text": "As I grow older, watching someone play the game is more exciting than play the game myself.",
+      "author": "@basshuntet6128",
+      "likes": 225
      },
-     "score": 13.781
+     "score": 13.846
     },
     {
      "id": "3qNkvdSWDmc",
@@ -1904,8 +1904,8 @@
      "channel": "IGN",
      "channel_url": "https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw",
      "channel_handle": "@IGN",
-     "views": 1070462,
-     "likes": 11771,
+     "views": 1116319,
+     "likes": 11999,
      "comments": 40,
      "uploaded": "2026-10-26",
      "duration": 1081,
@@ -1915,7 +1915,7 @@
       "author": "@MX360-l7q",
       "likes": 2100
      },
-     "score": 13.739
+     "score": 13.735
     },
     {
      "id": "p0Q3_h8Fq2w",
@@ -1923,8 +1923,8 @@
      "channel": "Fextralife",
      "channel_url": "https://www.youtube.com/channel/UClkUHCETNUph8vM-4gQpwUA",
      "channel_handle": "@Fextralife",
-     "views": 1157975,
-     "likes": 11890,
+     "views": 1164354,
+     "likes": 11903,
      "comments": 40,
      "uploaded": "2026-10-09",
      "duration": 854,
@@ -1934,26 +1934,7 @@
       "author": "@TrulyMalade",
       "likes": 1400
      },
-     "score": 13.639
-    },
-    {
-     "id": "byaeiTQ804E",
-     "title": "Phantom Blade Zero - Official Year of the Snake Gameplay Trailer",
-     "channel": "IGN",
-     "channel_url": "https://www.youtube.com/channel/UCKy1dAqELo0zrOtPkf0eTMw",
-     "channel_handle": "@IGN",
-     "views": 852035,
-     "likes": 27208,
-     "comments": 40,
-     "uploaded": "2025-01-22",
-     "duration": 358,
-     "thumb": "https://i.ytimg.com/vi/byaeiTQ804E/hqdefault.jpg",
-     "top_comment": {
-      "text": "WOW.. the beautiful martial arts swordplay. I don’t think folks understand, growing up on classic Shaw Brothers films, so glad to see more games like this coming out!!!",
-      "author": "@rahmellbrown162",
-      "likes": 1500
-     },
-     "score": 13.354
+     "score": 13.616
     },
     {
      "id": "Uo5Xo7oWN4M",
@@ -1961,8 +1942,8 @@
      "channel": "Fextralife",
      "channel_url": "https://www.youtube.com/channel/UClkUHCETNUph8vM-4gQpwUA",
      "channel_handle": "@Fextralife",
-     "views": 479048,
-     "likes": 7076,
+     "views": 490656,
+     "likes": 7143,
      "comments": 40,
      "uploaded": "2026-10-26",
      "duration": 964,
@@ -1970,231 +1951,250 @@
      "top_comment": {
       "text": "I think people forget games like devil may cry or bayonetta are classic action games. Everything doesn't need to be a soul game.",
       "author": "@Marcus-q8e",
-      "likes": 1000
+      "likes": 1100
      },
-     "score": 13.254
+     "score": 13.239
     },
     {
-     "id": "Pv8FB9BHJX4",
-     "title": "Phantom Blade Zero Is Here – The Gold-Masked One No Damage (Hellwalker)",
-     "channel": "옹발이 ONGBAL",
-     "channel_url": "https://www.youtube.com/channel/UCdGyaKUgO9hM2C0cH-Xe8LQ",
-     "channel_handle": "@_ONGBAL",
-     "views": 387516,
-     "likes": 5700,
+     "id": "Z89N-A_2Axc",
+     "title": "Phantom Blade Zero is a Problem",
+     "channel": "ENDYMIONtv",
+     "channel_url": "https://www.youtube.com/channel/UC92iwH5d9u0CeJtCx17YT9Q",
+     "channel_handle": "@EndymionTv",
+     "views": 347918,
+     "likes": 7263,
+     "comments": 40,
+     "uploaded": "2026-10-31",
+     "duration": 1457,
+     "thumb": "https://i.ytimg.com/vi/Z89N-A_2Axc/hqdefault.jpg",
+     "top_comment": {
+      "text": "The AAA Gaming Industry's worst nightmare fun video games that don't preach the message",
+      "author": "@theanimeunderworld8338",
+      "likes": 1000
+     },
+     "score": 13.211
+    },
+    {
+     "id": "W4tzFt4R3Gk",
+     "title": "Phantom Blade Zero Just Dropped..",
+     "channel": "Hollow",
+     "channel_url": "https://www.youtube.com/channel/UCmp5y07YIV6i2jPX4x82hVQ",
+     "channel_handle": "@HollowPoiint",
+     "views": 516826,
+     "likes": 6058,
      "comments": 40,
      "uploaded": "2026-10-29",
-     "duration": 248,
-     "thumb": "https://i.ytimg.com/vi/Pv8FB9BHJX4/hqdefault.jpg",
+     "duration": 11775,
+     "thumb": "https://i.ytimg.com/vi/W4tzFt4R3Gk/hqdefault.jpg",
      "top_comment": {
-      "text": "Dude, some people still haven't finished downloading.",
-      "author": "@ryansean8371",
-      "likes": 1400
+      "text": "China and Japan are the future of incredible games let's go!",
+      "author": "@Maccaboii",
+      "likes": 351
      },
-     "score": 12.928
+     "score": 12.933
     }
    ]
   },
   {
-   "id": "fc27",
-   "name": "EA Sports FC 27",
-   "short": "FC 27",
-   "why": "Twitch #20 (3.3M h) · Steam top sellers #10 · big on PS5",
+   "id": "aion2",
+   "name": "AION 2",
+   "short": "AION 2",
+   "why": "Twitch #12 (6.2M h) · Steam top sellers #3",
    "queries": [
-    "EA FC 27 gameplay",
-    "FC 27 PS5 gameplay",
-    "EA Sports FC 27 best goals"
+    "AION 2 gameplay",
+    "AION 2 review",
+    "AION 2 best class"
    ],
    "videos": [
     {
-     "id": "SAGT2U-PGgM",
-     "title": "EA SPORTS FC 27 | Official Gameplay Deep Dive",
-     "channel": "EA SPORTS FC",
-     "channel_url": "https://www.youtube.com/channel/UCoyaxd5LQSuP4ChkxK0pnZQ",
-     "channel_handle": "@easportsfc",
-     "views": 1884044,
-     "likes": 47042,
+     "id": "y_jDz2k1I_M",
+     "title": "AION 2 First Impressions \"Is It Worth Playing?\"",
+     "channel": "TheLazyPeon",
+     "channel_url": "https://www.youtube.com/channel/UCE-f0sqi-H7kuLT0YiW9rcA",
+     "channel_handle": "@TheLazyPeon",
+     "views": 1149496,
+     "likes": 11829,
      "comments": 40,
-     "uploaded": "2026-07-29",
-     "duration": 378,
-     "thumb": "https://i.ytimg.com/vi/SAGT2U-PGgM/hqdefault.jpg",
+     "uploaded": "2026-09-28",
+     "duration": 2720,
+     "thumb": "https://i.ytimg.com/vi/y_jDz2k1I_M/hqdefault.jpg",
      "top_comment": {
-      "text": "Players: “What’s new in FC 27?” EA: “Updated kits.”",
-      "author": "@kerim_doganoglu",
-      "likes": 6500
+      "text": "I just feel all these Korean style game all look identical.",
+      "author": "@Sourcecode01",
+      "likes": 2500
      },
-     "score": 14.837
+     "score": 13.634
     },
     {
-     "id": "aqrE0u9F2RA",
-     "title": "Marlon & Zlatan VS Thierry Henry & KSI EA FC27!",
-     "channel": "Marlon",
-     "channel_url": "https://www.youtube.com/channel/UC7RNjS5nGShmMSuMcVgUyjQ",
-     "channel_handle": "@Mar3LG",
-     "views": 2899403,
-     "likes": 24557,
-     "comments": 40,
-     "uploaded": "2026-09-15",
-     "duration": 1815,
-     "thumb": "https://i.ytimg.com/vi/aqrE0u9F2RA/hqdefault.jpg",
-     "top_comment": {
-      "text": "Thierry Henry likes to play with PES OG controller setup, he was on the Front Cover of PES 4, 5 and 6. ✌️",
-      "author": "@DavidLucianZen",
-      "likes": 935
-     },
-     "score": 14.178
-    },
-    {
-     "id": "KFXiAJ70KvM",
-     "title": "FC 27 | Barcelona vs Real Madrid - El Clasico | PS5 Pro",
-     "channel": "Noori",
-     "channel_url": "https://www.youtube.com/channel/UCRL904ZNf-4Mbs_m6ansK6g",
-     "channel_handle": "@NooriFIFA",
-     "views": 2523840,
-     "likes": 13765,
-     "comments": 40,
-     "uploaded": "2026-09-17",
-     "duration": 1438,
-     "thumb": "https://i.ytimg.com/vi/KFXiAJ70KvM/hqdefault.jpg",
-     "top_comment": {
-      "text": "how did santiago change to camp nou",
-      "author": "@themrhenaku",
-      "likes": 965
-     },
-     "score": 13.738
-    },
-    {
-     "id": "La1jjt17PN8",
-     "title": "FC27 Imperialism: Last Team Standing Wins!",
-     "channel": "Pazjor",
-     "channel_url": "https://www.youtube.com/channel/UCL73W7Aj36lt-rKWE_th6Pg",
-     "channel_handle": "@Pazjor",
-     "views": 1538055,
-     "likes": 13812,
+     "id": "twhNj1oTneU",
+     "title": "AION 2 ULTIMATE CLASS GUIDE (BREAKDOWN & RANKINGS)",
+     "channel": "Kanon",
+     "channel_url": "https://www.youtube.com/channel/UCtF90wyZYze6xc-9OnCs_IQ",
+     "channel_handle": "@KanonXO",
+     "views": 684297,
+     "likes": 6147,
      "comments": 40,
      "uploaded": "2026-09-26",
-     "duration": 1079,
-     "thumb": "https://i.ytimg.com/vi/La1jjt17PN8/hqdefault.jpg",
+     "duration": 1841,
+     "thumb": "https://i.ytimg.com/vi/twhNj1oTneU/hqdefault.jpg",
      "top_comment": {
-      "text": "messi cooked barca , which universe is this 😭",
-      "author": "@ummmhi69",
-      "likes": 315
+      "text": "Why does every class look like they are having a seizure while attacking.",
+      "author": "@thientran-q6h",
+      "likes": 175
      },
-     "score": 13.703
+     "score": 12.837
     },
     {
-     "id": "Sf5ynb7dnq4",
-     "title": "iShowSpeed's FIRST Time Playing FC 27!",
-     "channel": "Live Speedy",
-     "channel_url": "https://www.youtube.com/channel/UC2bW_AY9BlbYLGJSXAbjS4Q",
-     "channel_handle": "@LiveSpeedy",
-     "views": 1208291,
-     "likes": 11191,
+     "id": "gC_8iPaMTso",
+     "title": "Aion 2 Is Ruining My Life... (FULL REVIEW)",
+     "channel": "Stoopzz",
+     "channel_url": "https://www.youtube.com/channel/UChGcWDcAbCoRvCc3vaW1m2A",
+     "channel_handle": "@Stoopzz",
+     "views": 393825,
+     "likes": 4737,
      "comments": 40,
-     "uploaded": "2026-09-16",
-     "duration": 4028,
-     "thumb": "https://i.ytimg.com/vi/Sf5ynb7dnq4/hqdefault.jpg",
+     "uploaded": "2026-09-20",
+     "duration": 1600,
+     "thumb": "https://i.ytimg.com/vi/gC_8iPaMTso/hqdefault.jpg",
      "top_comment": {
-      "text": "This kinda cool but did they improve in-game gameplay, like can I slap the ref 😂",
-      "author": "@KrayOTB",
+      "text": "Finally. An Aion Review that respects your time.",
+      "author": "@LinsenLucas",
+      "likes": 672
+     },
+     "score": 12.584
+    },
+    {
+     "id": "6Pr8saVTj7M",
+     "title": "Is AION 2 Worth Your Time? - A Working Dad's Review",
+     "channel": "Caffeinated Dad Gaming",
+     "channel_url": "https://www.youtube.com/channel/UCYkqDMaWkLCUcj5cZN91KZg",
+     "channel_handle": "@CaffeinatedDad",
+     "views": 347901,
+     "likes": 2610,
+     "comments": 40,
+     "uploaded": "2026-10-05",
+     "duration": 983,
+     "thumb": "https://i.ytimg.com/vi/6Pr8saVTj7M/hqdefault.jpg",
+     "top_comment": {
+      "text": "the fact that the Auction house is behind a membership paywall is damn right outrageous",
+      "author": "@DoubleMartiniTv",
       "likes": 195
      },
-     "score": 13.371
+     "score": 12.16
     },
     {
-     "id": "zRTNOIQkI64",
-     "title": "EA Sports FC 27 - All New Gameplay Features & Celebrations",
-     "channel": "MAD GAM3R",
-     "channel_url": "https://www.youtube.com/channel/UCV409fY40WkfOFDiIjGs0jQ",
-     "channel_handle": "@madgam3r786",
-     "views": 1516183,
-     "likes": 9682,
+     "id": "z5GruOss4F8",
+     "title": "Here’s your Aion 2 Starter Launch Guide in 8 minutes...",
+     "channel": "Kanon",
+     "channel_url": "https://www.youtube.com/channel/UCtF90wyZYze6xc-9OnCs_IQ",
+     "channel_handle": "@KanonXO",
+     "views": 284070,
+     "likes": 3194,
      "comments": 40,
-     "uploaded": "2026-09-11",
-     "duration": 572,
-     "thumb": "https://i.ytimg.com/vi/zRTNOIQkI64/hqdefault.jpg",
+     "uploaded": "2026-09-29",
+     "duration": 531,
+     "thumb": "https://i.ytimg.com/vi/z5GruOss4F8/hqdefault.jpg",
      "top_comment": {
-      "text": "Legends in the stands, smoke bombs. That'll improve defence",
-      "author": "@DM-pv8ib",
-      "likes": 790
+      "text": "It's a beautiful game with so much to do, I don't see why I need to rush to level 45.. I want to experience everything at my own pace and enjoy the actual game",
+      "author": "@WRXnumberSeven",
+      "likes": 164
      },
-     "score": 13.321
+     "score": 12.069
     },
     {
-     "id": "jFAhKP4Du5M",
-     "title": "I Played FC 27 Until I Lost",
-     "channel": "More Chuff",
-     "channel_url": "https://www.youtube.com/channel/UC8QylkZmeGTi5Y2VR5bf7VA",
-     "channel_handle": "@MoreChuff",
-     "views": 1071527,
-     "likes": 8281,
+     "id": "sMNG8nPvNcU",
+     "title": "AION 2 Is Not What I Expected",
+     "channel": "Shroudy Rowdy",
+     "channel_url": "https://www.youtube.com/channel/UCmteEZzq7A2qVtXPMeYhAHg",
+     "channel_handle": "@ShroudyRowdy",
+     "views": 470268,
+     "likes": 2083,
      "comments": 40,
-     "uploaded": "2026-09-26",
-     "duration": 1220,
-     "thumb": "https://i.ytimg.com/vi/jFAhKP4Du5M/hqdefault.jpg",
+     "uploaded": "2026-10-03",
+     "duration": 1361,
+     "thumb": "https://i.ytimg.com/vi/sMNG8nPvNcU/hqdefault.jpg",
      "top_comment": {
-      "text": "missing gaffney up front",
-      "author": "@Luminaryshadows2024",
-      "likes": 65
+      "text": "Long story short ,will slowly turn into the same ncsoft p2w rng slop",
+      "author": "@Tono_88",
+      "likes": 136
      },
-     "score": 13.146
+     "score": 11.984
     },
     {
-     "id": "8LzWpnueRkc",
-     "title": "Stick or Twist But It's FC27",
-     "channel": "More Chuff",
-     "channel_url": "https://www.youtube.com/channel/UC8QylkZmeGTi5Y2VR5bf7VA",
-     "channel_handle": "@MoreChuff",
-     "views": 578581,
-     "likes": 6795,
+     "id": "l30IodpZcM4",
+     "title": "Aion 2 FINALLY Shows Gameplay - New MMORPG",
+     "channel": "TheLazyPeon",
+     "channel_url": "https://www.youtube.com/channel/UCE-f0sqi-H7kuLT0YiW9rcA",
+     "channel_handle": "@TheLazyPeon",
+     "views": 250649,
+     "likes": 5577,
      "comments": 40,
-     "uploaded": "2026-10-09",
-     "duration": 907,
-     "thumb": "https://i.ytimg.com/vi/8LzWpnueRkc/hqdefault.jpg",
+     "uploaded": "2025-08-22",
+     "duration": 844,
+     "thumb": "https://i.ytimg.com/vi/l30IodpZcM4/hqdefault.jpg",
      "top_comment": {
-      "text": "Ain't no way chuff just picked my answer 😂",
-      "author": "@Tommy-c2c",
-      "likes": 122
+      "text": "i think it needs bigger spell and skill effects and more flashing, I can still see glimpse of the target here and there",
+      "author": "@Drragnorr",
+      "likes": 913
      },
-     "score": 12.91
+     "score": 11.838
     },
     {
-     "id": "dCl9l9QLlKk",
-     "title": "EA SPORTS FC 27 | Official Opening Intro | PS5 Pro 120 FPS",
-     "channel": "FLASH PLAYER",
-     "channel_url": "https://www.youtube.com/channel/UCqQFVTcMS3OMAe_YlkPl_UA",
-     "channel_handle": "@FLASH_PLAYER7",
-     "views": 1453882,
-     "likes": 4947,
+     "id": "RXYBucBwRtk",
+     "title": "AION 2 Classes Explained – PvE & PvP Gameplay",
+     "channel": "Grobs",
+     "channel_url": "https://www.youtube.com/channel/UCcTwLmx6dqJMTSo4dOyeaHQ",
+     "channel_handle": "@grobsXO",
+     "views": 397508,
+     "likes": 2019,
      "comments": 40,
-     "uploaded": "2026-09-18",
-     "duration": 233,
-     "thumb": "https://i.ytimg.com/vi/dCl9l9QLlKk/hqdefault.jpg",
+     "uploaded": "2026-08-31",
+     "duration": 1098,
+     "thumb": "https://i.ytimg.com/vi/RXYBucBwRtk/hqdefault.jpg",
      "top_comment": {
-      "text": "brings me back to FIFA 12 arena, kicking around in the favela lol",
-      "author": "@andrewsfg_7",
-      "likes": 6
+      "text": "Man the designers of this game had to be on the hardest drugs known to man for the combat numbers to be this fast.",
+      "author": "@andreasviken2949",
+      "likes": 174
      },
-     "score": 12.743
+     "score": 11.804
     },
     {
-     "id": "B_ai3KCTPaQ",
-     "title": "I Played the New Open World Street Mode in FC 27",
-     "channel": "AntoDaBoss",
-     "channel_url": "https://www.youtube.com/channel/UCRHTtgQUpHNwXEiLYiml3hA",
-     "channel_handle": "@AntoDaboss",
-     "views": 1136959,
-     "likes": 5024,
+     "id": "_x557k_UuNw",
+     "title": "Aion 2 After 100+ Hours...",
+     "channel": "BagginsTV",
+     "channel_url": "https://www.youtube.com/channel/UCo86ZhLeIDpkaIGX1WCUvmQ",
+     "channel_handle": "@BagginsTV",
+     "views": 221159,
+     "likes": 1719,
      "comments": 40,
-     "uploaded": "2026-09-22",
-     "duration": 1387,
-     "thumb": "https://i.ytimg.com/vi/B_ai3KCTPaQ/hqdefault.jpg",
+     "uploaded": "2026-10-11",
+     "duration": 1215,
+     "thumb": "https://i.ytimg.com/vi/_x557k_UuNw/hqdefault.jpg",
      "top_comment": {
-      "text": "I’m a ea game tester and I was able to do the face scan then, I haven’t bought it but I’m pretty sure if I could do it in early tests, you could do it now",
-      "author": "@Klock16",
-      "likes": 36
+      "text": "Man I miss New World.",
+      "author": "@qpJoRdAnqp",
+      "likes": 450
      },
-     "score": 12.638
+     "score": 11.753
+    },
+    {
+     "id": "RKVtRzf3IIU",
+     "title": "What The Game DOESN'T Tell You! Everything I Wish I Knew! // Aion 2 Beginner Guide",
+     "channel": "Moxsy",
+     "channel_url": "https://www.youtube.com/channel/UCqUYttljh7bvi6mvHzpiMIA",
+     "channel_handle": "@Moxsy",
+     "views": 199465,
+     "likes": 1791,
+     "comments": 40,
+     "uploaded": "2026-10-06",
+     "duration": 1249,
+     "thumb": "https://i.ytimg.com/vi/RKVtRzf3IIU/hqdefault.jpg",
+     "top_comment": {
+      "text": "So pumped you're making videos on Aion. I'm such a sucker for MMOs and happy you're covering things. Looking forward to some builds",
+      "author": "@nickcollins1906",
+      "likes": 24
+     },
+     "score": 11.463
     }
    ]
   }
@@ -2203,19 +2203,19 @@
   {
    "name": "Streams Charts: most watched games on Twitch, last 7 days",
    "url": "https://streamscharts.com/games?platform=twitch",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "name": "Steam Weekly Top Sellers, Oct 27 - Nov 3 2026",
    "url": "https://store.steampowered.com/charts/topsellers/global/2026-10-27",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   },
   {
    "name": "Steam Most Played",
    "url": "https://store.steampowered.com/charts/mostplayed",
-   "checked": "2026-11-03"
+   "checked": "2026-11-09"
   }
  ],
- "generated": "2026-11-03T20:22:38Z",
+ "generated": "2026-11-09T13:17:05Z",
  "method": "yt-dlp search + metadata; Shorts (<2 min), live/upcoming, reuploads, spam and off-topic titles removed; ranked by log(views), log(likes), like/view ratio, comment count and recency; max 2 videos per channel; top comment = most-liked clean top-level comment from YouTube's \"Top comments\" sort."
 }

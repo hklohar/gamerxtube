@@ -15,7 +15,7 @@ Plain HTML/CSS/JS with no build step. Videos play in a click-to-load `youtube-no
 ```bash
 pip install -U yt-dlp
 python3 scripts/refresh.py              # everything
-python3 scripts/refresh.py channel fc27 # only the channel + one game (others kept)
+python3 scripts/refresh.py channel aion2 # only the channel + one game (others kept)
 ```
 
 No API key is needed. Every number and comment in `data.json` comes straight from YouTube via yt-dlp. A field YouTube didn't return is omitted, never guessed.

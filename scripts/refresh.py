@@ -24,36 +24,37 @@ CHANNEL = 'https://www.youtube.com/@ps5gameplaystation453'
 PER_GAME = 10
 WORKERS = 6
 
-# Trending games (chosen 2026-11-09). Sources: Streams Charts "Most watched games on Twitch, last 7 days"
-# (streamscharts.com/games?platform=twitch) and Steam Weekly Top Sellers Oct 27 - Nov 3 2026
-# (store.steampowered.com/charts/topsellers/global/2026-10-27) + Steam Most Played.
+# Trending games (chosen 2026-11-16). Sources: TwitchTracker most watched games, last 7 days (twitchtracker.com/games;
+# non-game categories like Just Chatting skipped) and Steam Weekly Top Sellers Nov 3 - Nov 10 2026
+# (store.steampowered.com/charts/topsellers/global/2026-11-10) + Steam Most Played.
 GAMES = [
-    {'id': 'lol', 'name': 'League of Legends', 'short': 'LoL', 'why': 'Twitch #2 (29.1M hours watched, last 7 days)',
+    {'id': 'lol', 'name': 'League of Legends', 'short': 'LoL', 'why': 'Twitch #3 (133k avg viewers, last 7 days)',
      'queries': ['League of Legends gameplay', 'League of Legends best plays 2026', 'League of Legends highlights'], 'match': [r'league of legends', r'\blol\b', r'\bworlds\b', r'\blck\b', r'faker'],
      'exclude': r'wild rift|music video|\bft\.|cinematic|\bsong\b|arcane'},
-    {'id': 'cs2', 'name': 'Counter-Strike 2', 'short': 'CS2', 'why': 'Twitch #5 (13.6M h) · Steam top sellers #4',
+    {'id': 'cs2', 'name': 'Counter-Strike 2', 'short': 'CS2', 'why': 'Twitch #5 (80k avg) · Steam top sellers #4',
      'queries': ['Counter-Strike 2 highlights', 'CS2 best plays 2026', 'CS2 gameplay'], 'match': [r'counter[- ]?strike', r'\bcs2\b', r'\bcs ?go\b', r'\bcs\b']},
-    {'id': 'gtav', 'name': 'Grand Theft Auto V', 'short': 'GTA V', 'why': 'Twitch #4 (13.7M h) · GTA VI launches Nov 19',
+    {'id': 'gtav', 'name': 'Grand Theft Auto V', 'short': 'GTA V', 'why': 'Twitch #4 (89k avg) · GTA VI launches Nov 19',
      'queries': ['GTA 5 gameplay', 'GTA V best moments', 'GTA 5 RP 2026'], 'match': [r'\bgta\b', r'grand theft auto']},
-    {'id': 'minecraft', 'name': 'Minecraft', 'short': 'Minecraft', 'why': 'Twitch #3 (16.2M h)',
+    {'id': 'minecraft', 'name': 'Minecraft', 'short': 'Minecraft', 'why': 'Twitch #10 (46k avg, +58%)',
      'queries': ['Minecraft gameplay', 'Minecraft best builds 2026', 'Minecraft hardcore'], 'match': [r'minecraft']},
-    {'id': 'valorant', 'name': 'VALORANT', 'short': 'VALORANT', 'why': 'Twitch #6 (10.3M h)',
+    {'id': 'valorant', 'name': 'VALORANT', 'short': 'VALORANT', 'why': 'Twitch #11 (43k avg)',
      'queries': ['Valorant highlights', 'Valorant best plays 2026', 'Valorant gameplay'], 'match': [r'valorant', r'\bvct\b']},
-    {'id': 'dota2', 'name': 'Dota 2', 'short': 'Dota 2', 'why': 'Twitch #7 (9.0M h) · Steam top sellers #5',
+    {'id': 'dota2', 'name': 'Dota 2', 'short': 'Dota 2', 'why': 'Twitch #9 (46k avg) · Steam top sellers #6',
      'queries': ['Dota 2 highlights', 'Dota 2 best plays 2026', 'Dota 2 gameplay'], 'match': [r'\bdota\b']},
-    {'id': 'fortnite', 'name': 'Fortnite', 'short': 'Fortnite', 'why': 'Twitch #8 (8.1M h)',
+    {'id': 'fortnite', 'name': 'Fortnite', 'short': 'Fortnite', 'why': 'Twitch #6 (67k avg)',
      'queries': ['Fortnite gameplay', 'Fortnite best moments 2026', 'Fortnite chapter'], 'match': [r'fortnite']},
-    {'id': 'mw4', 'name': 'Call of Duty: Modern Warfare 4', 'short': 'CoD MW4', 'why': 'Twitch #11 (6.4M h) · Steam top sellers #2',
+    {'id': 'mw4', 'name': 'Call of Duty: Modern Warfare 4', 'short': 'CoD MW4', 'why': 'Steam top sellers #2',
      'queries': ['Modern Warfare 4 gameplay', 'Call of Duty Modern Warfare 4', 'MW4 multiplayer gameplay'], 'match': [r'modern warfare (4|iv)\b', r'\bmw4\b', r'\bmwiv\b']},
-    {'id': 'phantomblade', 'name': 'Phantom Blade Zero', 'short': 'Phantom Blade', 'why': 'Steam top sellers #1 · Twitch #10 (7.4M h)',
-     'queries': ['Phantom Blade Zero gameplay', 'Phantom Blade Zero boss fight', 'Phantom Blade Zero review'], 'match': [r'phantom blade']},
-    {'id': 'aion2', 'name': 'AION 2', 'short': 'AION 2', 'why': 'Twitch #12 (6.2M h) · Steam top sellers #3',
-     'queries': ['AION 2 gameplay', 'AION 2 review', 'AION 2 best class'], 'match': [r'aion ?2', r'aion ii']},
+    {'id': 'wow', 'name': 'World of Warcraft', 'short': 'WoW', 'why': 'Twitch #2 (182k avg viewers, last 7 days)',
+     'queries': ['World of Warcraft gameplay', 'World of Warcraft best moments 2026', 'World of Warcraft raid'], 'match': [r'world of warcraft', r'\bwow\b'],
+     'exclude': r'wow!|\bwow\b (so|that|what)|mobile'},
+    {'id': 'pubg', 'name': 'PUBG: BATTLEGROUNDS', 'short': 'PUBG', 'why': 'Steam top sellers #1',
+     'queries': ['PUBG gameplay', 'PUBG best moments 2026', 'PUBG Battlegrounds highlights'], 'match': [r'\bpubg\b', r'battlegrounds'], 'exclude': r'pubg mobile|bgmi'},
 ]
 TRENDING_SOURCES = [
-    {'name': 'Streams Charts: most watched games on Twitch, last 7 days', 'url': 'https://streamscharts.com/games?platform=twitch', 'checked': '2026-11-09'},
-    {'name': 'Steam Weekly Top Sellers, Oct 27 - Nov 3 2026', 'url': 'https://store.steampowered.com/charts/topsellers/global/2026-10-27', 'checked': '2026-11-09'},
-    {'name': 'Steam Most Played', 'url': 'https://store.steampowered.com/charts/mostplayed', 'checked': '2026-11-09'},
+    {'name': 'TwitchTracker: most watched games on Twitch, last 7 days', 'url': 'https://twitchtracker.com/games', 'checked': '2026-11-16'},
+    {'name': 'Steam Weekly Top Sellers, Nov 3 - Nov 10 2026', 'url': 'https://store.steampowered.com/charts/topsellers/global/2026-11-10', 'checked': '2026-11-16'},
+    {'name': 'Steam Most Played', 'url': 'https://store.steampowered.com/charts/mostplayed', 'checked': '2026-11-16'},
 ]
 
 SPAM = re.compile(r'(#shorts?\b|\bshorts?\b|free v-?bucks|v-?bucks generator|\bhack(s|ed)?\b|cheat(s|ing)?\b|aimbot|mod ?menu|giveaway|\bglitch\b.*\bmoney\b|money glitch|reupload|re-upload|\bnot mine\b|\bcredit to\b|\bsub ?4 ?sub\b|\bfree skins?\b|\bscam\b|\b(asmr)\b|\bunlock all\b|\bdownload (link|free)\b|\bapk\b|\bmobile\b.*\bdownload\b|\bfake\b)', re.I)
